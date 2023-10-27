@@ -1,0 +1,600 @@
+we investigated how Azorhizobium caulinodans regulates ROS resistance. We found that in-frame deletions of a gene encoding the putative catalase-peroxidase katG or a gene encoding a LysR-family regulatory protein, oxyR, exhibited increased sensitivity to H2O2 We then showed that OxyR positively regulated katG expression in an H2O2-independent fashion [oxyR].
+We identified a CheZ-like protein among Alphaproteobacteria functioning in chemotaxis and the A. caulinodans-S. rostrata symbiosis [CheZ].
+Azorhizobium caulinodans c-di-GMP phosphodiesterase Chp1 involved in motility, EPS production, and nodulation of the host plant.
+Crystal structure of Dictyoglomus thermophilum beta-d-xylosidase DtXyl unravels the structural determinants for efficient notoginsenoside R1 hydrolysis.
+study demonstrate that polar positioning of the flagellar system, but not of the chemotaxis system, depends on the GTPase FlhF.[FlhF].
+Three Cas proteins (Cas6f, Cas7fv, Cas5fv) and mature CRISPR RNAs were shown to be required for the assembly of an interference complex termed Cascade. [Cas6f];[Cas7fv];[Cas5fv]
+LrbS activates LrbA which further promotes the expression of lrbR in response to sodium lactate. (LrbS, Lrb, -LrbR)
+The purified recombinant putrescine monooxygenase from Shewanella putrefaciens showed Flavin-Adenine Dinucleotide and NADPH dependent N-hydroxylation activity. [putrescine monooxygenase]
+Here, the authors show that HubP also recruits a transmembrane multidomain protein, PdeB, to the flagellated cell pole.[HubP, PdeB]
+BacM of Myxococcus xanthus forms an extended beta-sheet structure likely mediated by hydrophobic interactions [BacM]
+Data suggest BtkB exhibits conserved amino acid motifs similar to BtkA; BtkB is activated by autophosphorylation of cytoplasmic catalytic domain; activity is not dependent on autophosphorylation in C-terminal tyrosine. [BtkB, Bruton's tyrosine kinase B]
+EpsW, an orphan and single-domain response regulator (RR), was identified as a potential DifE target first by bioinformatics.[EpsW, DifE]
+The type IV pilus assembly ATPase PilB of Myxococcus xanthus interacts with the inner membrane platform protein PilC and the nucleotide-binding protein PilM. [PilB], [PilC], [PilM]
+Point mutations at the six Cys residues of the CRD have revealed the contribution of each residue to CorE2 activity. However, importantly, mutation of Cys174 completely shifts the specificity of CorE2 from cadmium to copper, indicating that the Cys arrangement of the CRD determines the metal specificity
+Because DmxB can be-at least partially-functionally replaced by a heterologous diguanylate cyclase, these results altogether suggest a model in which a minimum threshold level of c-di-GMP is essential for the successful completion of multicellular development in M. xanthus
+Crystal structure of AibC, a reductase involved in alternative de novo isovaleryl coenzyme A biosynthesis in Myxococcus xanthus, has been reported. [AibC]
+MXAN_1078 (named pxrR here) was found to positively regulate pxr transcription, presumably via the sigma(54) promoter of pxr.[pxrR]
+the bacterial MxSafC exhibits excellent regioselectivity for para as well as for meta methylation, depending on the substrate's characteristics.[MxSafC]
+Data show that TraA requires TraB to form an active adhesin for self-recognition. In the absence of TraB, TraA localizes to the cell surface but does not function in cell- binding. TraA contains a predicted sorting motif, MYXO-CTERM, contributing to its cell surface display. TraB, with a beta-barrel and cell wall binding domain, may help anchor TraA to the cell envelop during adhesion and outer membrane exchange. [TraA...
+Expression, purification, and characterization of a novel acidic Lipoxygenase (LOX) from Myxococcus xanthus has been reported. [LOX]
+Ppk1 catalyzed the transfer of a phosphate group between ADP molecules yielding ATP and AMP, thus exhibiting adenylate kinase activity.[Ppk1]
+The level of the transcription factor MrpC correlated with multicellular mound formation and differentiation into spores [MrpC].
+Negative HrcA and positive sigma32 regulators coordinate the transcription of duplicate groELs (groEL)
+M. xanthus expresses three enzymes, AdkA, AdkB, and Ppk1, with Adk activity, which may function to support energy metabolism of the bacteria in different environmental conditions.
+These assays revealed that SinK autophosphorylation and its REC1 domain impact the onset of aggregation and/or the mobility of aggregates, while the REC2 domain impacts sporulation efficiency.[SinK]
+C-signaling activates FruA at least ninefold posttranslationally in order to commit a cell to spore formation. [FruA]
+A TonB-dependent transporter is required for secretion of protease PopC across the bacterial outer membrane. [TonB], [PopC]
+increases the GTPase activity of MglA by reorientation of key catalytic residues of MglA combined with allosteric regulation of nucleotide exchange by the Ct-helix; regulation essential for cell polarity in motility [MglB, mutual gliding motility B]
+study discovered the plasmanylethanolamine desaturase activity that is essential for vinyl ether bond formation in a bacterial enzyme, CarF, which is a homolog of the human enzyme TMEM189; CarF mediates light-induced carotenogenesis [CarF]
+Second messengers and divergent HD-GYP phosphodiesterases regulate 3',3'-cGAMP signaling.
+Enzymatic Characteristics of a Polyphosphate/ATP-NAD Kinase, PanK, from Myxococcus xanthus.
+Data support a model in which MglA-GDP acts as a soluble messenger to convert polar MglA-GTP* into a diffusible MglA-GTP species that re-localizes to the opposite pole during movement reversals.
+Results found that FrzB does not interact with FrzW as it lacks the amino acid region responsible for this interaction. FrzB, instead, acts upstream of FrzCD in the regulation of M. xanthus chemotaxis behaviors and activates the Frz pathway allowing the formation and distribution of multiple chemosensory clusters on the nucleoid. [FrzB]
+CdbA acts as a nucleoid-associated protein that contributes to chromosome organization and is modulated by Cyclic di-GMP.[CdbA]
+Dual specificity of a prokaryotic GTPase-activating protein (GAP) to two small Ras-like GTPases in Myxococcus xanthus.
+[AuaA]asparagine, but not the arginine residue in NRxxDxxxD, is important for the enzyme activity of AuaA
+CYP260A1 exhibited an electrocatalytic activity detected by an increase of the reduction current in the presence of dissolved oxygen and upon addition of the substrate (androstenedione) in the air-saturated buffer.
+Structural characterization of CYP260A1 from Sorangium cellulosum and its catalytic activity towards a mineralocorticoid has been reported. [CYP260A1]
+The results demonstrate the ability of CYP267B1 to perform in-chain hydroxylations of medium-chain saturated fatty acids (decanoic acid, dodecanoic acid and tetradecanoic acid) and a regioselective hydroxylation of flavanone. The fatty acids are mono-hydroxylated at different in-chain positions, with decanoic acid displaying the highest regioselectivity towards omega-3 hydroxylation.
+Study characterizes the Tpt1 enzyme from Runella slithyformis as a bona fide NAD+-dependent RNA 2'-phosphotransferase. Its biological activity relies on a conserved histidine and three conserved arginine that were shown to be essential for the in vivo activity of S. cerevisiae Tpt1 and E. coli KptA. [Tpt1]
+HD-Pnk is a copper-dependent p-nitrophenylphosphatase.[HD-Pnk]
+Thus, the BBK32 fibronectin- and glycosaminoglycan-binding activities are separable in vivo, and BBK32-mediated glycosaminoglycan binding, but not fibronectin binding, contributes to joint colonization.[BBK32]
+results suggest that BBA33 interacts with collagenous structures and may function as an adhesin in a process that is required to prevent bacterial clearance [BBA33]
+insights into why the number of basic amino acids in the GAG-binding site of DBPA may not be the only factor determining GAG affinity of proteins (decorin binding protein A (DBPA)
+Thus, activation of rpoS transcription by BosR somehow involves Arg39.[rpoS, BosR]
+BadR directly influences the expression of both rpoS and bosR in Borrelia burgdorferi [Bb]. This newly recognized role for BadR to fine-tune the activation of the RpoN-RpoS pathway at strategic times in Bb's life cycle.[BadR].
+HtrA proteases were reversibly inhibited by ZnCl2 at all micro molar concentrations. [HtrA]
+we show that the causative agent of Lyme disease, Borrelia burgdorferi, expresses a surface-protein termed BBK32 that targets and inhibits the first component of complement, designated C1
+Study demonstrates that phosphorylation of the receiver domain is essential for both functions of Rrp2, the function as a bEBP to activate sigma 54-dependent gene transcription and the function required for cell growth. [Rrp2]
+The Borrelia burgdorferi CheY3 response regulator is essential for chemotaxis and completion of its natural infection cycle.[CheY]
+These data show that Borrelia burgdorferi OspC inhibits the classical and lectin complement pathways and competes with complement protein C2 for C4b binding.[OspC]
+A unique innate immune evasion strategy of B. burgdorferi is orchestrated by the BBA57 surface protein through its modulation of multiple spirochete virulent determinants. Its function is critical for early infection but not for later stages of spirochetal persistence, either in mammals or ticks. The protein influences host IFN responses as well as suppresses multiple host microbicidal activities. BBA57.
+Data found that OspA folded through a productive on-pathway folding intermediate, in which the N-terminal domain of the protein was folded into the native structure with the C-terminal domain still unfolded. An overlapping region was shown between the N-terminal and the C-terminal folding units and that this overlapping region plays a critical role in determining the folding behavior of OspA. [OspA]
+The finding of OppA4 involved in regulation of the Rrp2-RpoN-RpoS pathway further reinforces the importance of nutritional virulence to the enzootic cycle of B. burgdorferi [OppA4].
+c-di-GMP-bound PlzA functions as a positive regulator, whereas ligand-free PlzA acts as a negative regulator for glp expression [PlzA].
+The authors show that antigenic variation of VlsE in B31 and JD1 is highly similar, despite the lack of 17 bp direct repeats in JD1, a somewhat different arrangement of the silent cassettes, divergent inverted repeat sequences and general divergence in the vls sequences.[VlsE]
+Biochemical and genetic studies reveal that HtrA, a serine protease of B. burgdorferi, controls FlaB protein turnover [HtrA].
+BpuR bound to sodA mRNA in live B. burgdorferi, and a specific BpuR-binding site was mapped 5' of the sodA open reading frame. [BpuR]
+Molecular Interactions During Borrelia burgdorferi Migration from the Vector to the Mammalian Nervous System.
+Membrane directed expression in Escherichia coli of BBA57 and other virulence factors from the Lyme disease agent Borrelia burgdorferi.
+The Lon-2 protease of Borrelia burgdorferi is critical for infection in the mammalian host.
+Borrelia burgdorferi spatiotemporal regulation of transcriptional regulator bosR and decorin binding protein during murine infection.
+The BB0345 Hypothetical Protein of Borrelia burgdorferi Is Essential for Mammalian Infection.
+BBB07 contributes to, but is not essential for, Borrelia burgdorferi infection in mice.
+These results indicate that OspC can substitute for VlsE when antigenic variation is unnecessary, but that these two abundant lipoproteins are optimized for their related but specific roles during early and persistent mammalian infection.
+The dominant ospC types associated with B. burgdorferi canine infections differed from those associated with human infection, indicating a relationship between ospC sequence and preferred host range.
+OspC is an antiphagocytic factor that protects Borrelia burgdorferi from phagocytosis by macrophages.
+Here the authors show that the related, tick-specific protein OspB can fully substitute for OspA, whereas the unrelated, mammal-specific protein OspC cannot.
+Epitope mapping of Borrelia burgdorferi OspC protein in homodimeric fold.
+We showed that increased ospC expression in the oppA4 mutant was due to an increased rpoS expression.
+BpuR bound to sodA mRNA in live B. burgdorferi, and a specific BpuR-binding site was mapped 5' of the sodA open reading frame.
+Deletion of fhbA abolished complement factor H binding and eliminated cleavage of C3b on the cell surface, however, the YORDeltafhbA strain remained infectious in mice and retained resistance to killing in vitro by human complement.
+Ion channel gating mechanism of a bacterial, cyclic AMP activated, potassium channel. [SthK]
+Spirochaeta thermophila secretes seven glycoside hydrolases for plant biomass degradation that carry a carbohydrate-binding module 64 (CBM64) appended at the C-terminus. Presented is the first crystal structure of a CBM64 at 1.2 A resolution. [glycoside hydrolase]
+The structure of S. thermophila StCBM64C revealed an untwisted, flat, carbohydrate-binding interface comprising the side chains of four tryptophan residues in a co-planar linear arrangement. Significantly, two highly conserved asparagine side chains, each one located between two tryptophan residues, are critical to insoluble and soluble glucan recognition but not to bind xyloglucan. [StCBM64C]
+The similarity between apo and ligand-bound structures indicates that ligand-binding domains are strongly coupled to pore and SthK gates in an allosteric, concerted fashion. The different orientations of cAMP and cGMP in the 'resting' and 'activated' structures suggest a mechanism for ligand discrimination.[SthK]
+Prolyl isomerization controls activation kinetics of a cyclic nucleotide-gated ion channel.
+Strains with mutations in either the prcA-prtP or the msp region showed altered expression of the other locus.  (msp = major outer sheath protein)
+The gene encoding the Treponema denticola factor H-like protein 1 (FHL-1) binding protein, FhbB, was recovered and characterized [FhbB]
+Msp inhibits the polarized accumulation of activated Rac and PI3-kinase products upon exposure to formyl-methionyl-leucyl-phenylalanine (fMLP).  [major outer sheath protein (Msp)]
+These data suggest that major outer sheath protein (MSP) acts as an adhesin during the coaggregation process of T. denticola with P. gingivalis and F. nucleatum through its protein and carbohydrate moieties, respectively. [MSP]
+In this study we demonstrated with a pull-down assay that purified full-length recombinant lipoprotein FhbB (lacking the leader peptide) binds exclusively to FH and not to FHL-1(factor H-like protein 1). [FhbB]
+Hpk2 and Rrp2 constitute a functional two-component system that contributes to environmental sensing [Hpk2, Rrp2]
+dentipain contributes to the virulence of T. denticola [dentipain]
+FhbB crystals diffracted to 1.8 A resolution and belonged to space group P4(3)2(1)2 or P4(1)2(1)2, with unit-cell parameters a = b = 46.76, c = 167.68 A[FhbB]
+In contrast, a deficiency of the Treponema denticola major outer sheath protein increased resistance to LL-37.[major outer sheath protein]
+structure of the FH-binding protein, FhbB, was solved to 1.7 A resolution; study provides significant new insight into the molecular basis of FH/FhbB interaction and advances our understanding of the role that T. denticola plays in the development and progression of periodontal disease.[FHBB]
+FhbB is a multi-functional protein that may contribute to virulence through several mechanisms including immune evasion, manipulation of the host immune response, adherence or tissue invasion.[Treponema denticola]
+Specific amino acid substitutions in Hpk2 affected autophosphorylation, phosphotransfer, oligomerization, and hemin binding [Hpk2].
+autoreactive anti-ENO1 (alpha-enolase)/mEno1 antibodies that are produced as byproducts during the antibody response to TdEno play a minimal role in the progression of periodontitis in the absence of rheumatoid arthritis [alpha-enolase].
+The data presented here are consistent with a model of Msp as a large-diameter beta-barrel porin.[Msp]
+Multiple enzymes can make hydrogen sulfide from cysteine in Treponema denticola.
+The structure of the TP0435 (Tp17) lipoprotein is characterized by an eight-stranded beta-barrel protein with a shallow "basin" at one end of the barrel and an alpha-helix stacked on the opposite end. [Tp17]
+study to elucidate role of the active center of Ftp_Tp in Mg2+-dependent FAD hydrolysis and in potential FMN transferase activities; findings imply mechanisms by which a dynamic pool of flavin cofactor is maintained and how flavoproteins are generated by Ftp_Tp locally in the periplasm [flavin-trafficking protein]
+Tp0751 can function as a vascular adhesin.[Tp0751]
+Crystal stuctures of MglB-2 reveals glucose-induced conformational changes.[MglB-2]
+Tp0136 interaction with host fibronectin receptor plays an important role in spirochetal attachment to mammalian cells. [Tp0136]
+Tp47 promotes the migration and adherence of THP-1cells to human dermal vascular smooth muscle cells by inducing MCP-1 and ICAM-1 expression (Tp47)
+Identification of the Neuroinvasive Pathogen Host Target, LamR, as an Endothelial Receptor for the Treponema pallidum Adhesin Tp0751.
+Evidence that immunization with TP0751, a bipartite Treponema pallidum lipoprotein with an intrinsically disordered region and lipocalin fold, fails to protect in the rabbit model of experimental syphilis.
+Tp0136 targets fibronectin (RGD)/Integrin beta1 interactions promoting human microvascular endothelial cell migration.
+Biophysical and Biochemical Characterization of TP0037, a d-Lactate Dehydrogenase, Supports an Acetogenic Energy Conservation Pathway in Treponema pallidum.
+Estimation of Full-Length TprK Diversity in Treponema pallidum subsp. pallidum.
+Activation mechanism of a small prototypic Rec-GGDEF diguanylate cyclase.
+Solution structure of leptospiral immunoglobulin-like protein A (LigA4 Big domain) has been presented. [LigA]
+The interaction between C4BP and Leptospira interrogans LcpA, LigA and LigB is sensitive to ionic strength and inhibited by heparin.[LigA, LigB]
+Unlike the DNA vaccine, the administration of recombinant OmpL37 induced a strong IgG antibody response. When individually administrated, both formulations stimulated a TNF-a mediated inflammatory response
+LigB bound to factor XIII and further interfered with the cross-linking of fibrinogen [LigB]
+Leptospira enolase also acts as an immune evasion protein by interacting with the negative complement regulators C4b binding protein and factor H.Enolase may facilitate leptospiral survival and dissemination, thus contributing to bacterial virulence [Enolase].
+Lsa21 is a potent TLR2 and TLR4 agonist that induces strong innate response and may play important role in Leptospira pathogenesis [Lsa21]
+Crystallization of FcpA from Leptospira, a novel flagellar protein that is essential for pathogenesis. [FcpA]
+The full-length Lcd1 and its N-terminal cGMP-specific phosphodiesterases, adenylyl cyclases, and FhlA (GAF) domain form dimers in solution.[Lcd1]
+By leptospiral outer membrane protein extraction and fractionation, the authors identified the proteins LipL21 and LipL45 as myeloperoxidase inhibitors, constituting new Leptospira virulence factors.[LipL21]
+FcpA together with FlaA2, produces coiling of periplasmic flagella of Leptospira, and the interaction between the sheath and core filament may be mediated by FcpA and FlaB1 [FlaA2, FcpA, FlaB2]
+ClpB can support the virulence of L.interrogans by protecting the conformational integrity and catalytic activity of multiple metabolic enzymes, thus maintaining energy homeostasis in pathogen cells.[ClpB]
+The authors tentatively assign the coding sequence (CDS) LIC13259, previously annotated as unknown function, as a novel protein that may play an important role in the host's invasion and immune evasion processes, contributing to the establishment of the leptospiral infection.[LIC13259]
+Identification of a novel protein in the genome sequences of Leptospira interrogans with the ability to interact with host's components.
+The Leptospira interrogans LIC10774 is a multifunctional surface protein that binds calcium and interacts with host components.
+propose that the GlnB protein acts as a 2-oxoglutarate-sensitive dissociable regulatory subunit of acetyl-CoA carboxylase enzyme [GlnB]
+The cdgA gene encoding diguanylate cyclase A (CdgA) is involved in biofilm formation and exopolysaccharide (EPS) production in Azospirillum brasilense Sp7.[cdgA]
+Ferritin is dominant iron-bearing protein in Azospirillum brasilense. [ferritin]
+The authors show that mutations in either flmA or flmB genes of Azospirillum brasilense resulted in non-motile cells due to alterations in the polar flagellum assembly. Moreover, these mutations also affected the capability of Azospirillum brasilense cells to adsorb to maize roots and to produce LPS and EPS.[flmA, flmB]
+AhpC is regulated negatively by OxyR1 and positively by RpoE2. [AhpC, OxyR1, RpoE2]
+FlhB1 gene is essential for correct assembly of both constitutive polar flagellum and inducible lateral flagella.[FlhB1]
+[dctP] Inactivation of dctP in A. brasilense led to a drastic reduction in its ability to grow on dicarboxylates and form cell aggregates
+Engineering a Carotenoid-Overproducing Strain of Azospirillum brasilense for Heterologous Production of Geraniol and Amorphadiene.
+Crystal structure of bacterial L-arabinose 1-dehydrogenase in complex with L-arabinose and NADP().
+RpoH sigma factors and OxyR in regulating the expression of multiple catalases in A. brasilense.
+RpoH sigma factors and OxyR in regulating the expression of multiple catalases in A. brasilense.
+Inactivation of dctA, however, showed a marginal reduction in growth and flocculation
+RpoH sigma factors and OxyR in regulating the expression of multiple catalases in A. brasilense.
+RpoH sigma factors and OxyR in regulating the expression of multiple catalases in A. brasilense.
+Characterization of glutamine synthetase from the ammonium-excreting strain HM053 of Azospirillum brasilense.
+Day and blue light modify growth, cell physiology and indole-3-acetic acid production of Azospirillum brasilense Az39 under planktonic growth conditions.
+In C. jejuni, tet(O) was plasmid-encoded in 54 % of tetracycline-resistant isolates, whereas in C. coli, tet(O) appeared to be located on the chromosome.
+All rod-shaped Campylobacter jejuni transposons mutants and all rod-shaped laboratory, clinical and environmental Campylobacter jejuni and Campylobacter coli contained genetic changes within the pgp1 or pgp2 genes, which encode peptidoglycan modifying enzymes. [pgp1]; [pgp2]
+Here the authors show that CstIV and CstV are involved in Campylobacter coli lipooligosaccharide biosynthesis. In particular, cstV is associated with lipooligosaccharide sialylation, while cstIV is linked to the addition of a diacetylated nonulosonic acid residue.[CstIV, CstV]
+Detection of the enterococcal oxazolidinone/phenicol resistance gene optrA in Campylobacter coli.
+detailed comparison of the quinol:fumarate reductase enzymes from C. jejuni and H. pylori with that of W. succinogenes [QFR]
+in vitro characterization of PglC as a bacillosamine 1-phosphoryl transferase provides direct evidence for the early steps in the C. jejuni N-linked glycosylation pathway [PglC]
+analysis of PseG of pseudaminic acid biosynthesis [PseG]
+results showed that the point mutation was responsible, via a lack of binding of the CmeR repressor, for increased expression of the CmeABC efflux pump and consecutive multidrug resistance [CmeR]
+In C. jejuni, tet(O) was plasmid-encoded in 54 % of tetracycline-resistant isolates, whereas in C. coli, tet(O) appeared to be located on the chromosome.[tet(O)protein]
+Analyses of transformation frequencies and glycosylation statuses of N-glycosylated proteins indicated partial suppression of pglF by pseC.[ pglF, pseC]
+The crystal structure of CmeR to 2.2 A resolution, revealed a dimeric two-domain molecule with an entirely helical architecture similar to members of the TetR family of transcriptional regulators.[CmerR]
+beta 1,3-galactosyltransferase CgtB variants from the bacterium Campylobacter jejuni have distinct acceptor specificities [CgtB]
+The C. jejuni ppk1 mutant was also defective for the virulence-associated phenotype of intraepithelial cell survival in a tissue culture infection model and exhibited a striking, dose-dependent chick colonization defect [polyphosphate kinase 1]
+Strain 81-176 demonstrated GADH activity, converting d-gluconate to 2-keto-d-gluconate, that was higher at 42 degrees C than at 37 degrees C. In contrast, cj0414 and cj0415 mutants lacked GADH activity.[cj0414 and cj0415 in strain 81-176]
+The results demonstrate that cytolethal distendin toxin CDT(+) C. jejuni strains adhere to and invade epithelial cells more efficiently than CDT(-) strains. CDT is responsible for intestinal pathology and the colon is the major target. [DT]
+Diffraction data have been collected from these crystal forms to 2.5 and 2.95 A resolution, respectively[ stationary-phase survival E]
+Multifunctionality of Campylobacter jejuni sialyltransferase CstII. [CstII sialyltransferase]
+C. jejuni strains carrying a sialyltransferase gene (cst-II), which is essential for the biosynthesis of ganglioside-like lipooligosaccharides, are associated with the development of Guillain-Barre syndrome
+CetA has two transmembrane helices in a helical hairpin while CetB is a peripheral membrane protein tightly associated with the membrane. [CetA, CetB]
+Key residues in the binding site are essential for Cj0977 virulence function, suggesting a possible function of Cj0977 as an acyl-CoA binding regulatory protein.[Cj0977, sigma 28]]
+The maf4 mutant displayed strongly delayed bacterial autoagglutination.
+Report immunogenicity and immunoprotection of recombinant PEB1 in Campylobacter-jejuni-infected mice.
+The data indicate that Cj1279c is a novel adhesin. Because Cj1279c harbors fibronectin type III domains, the authors designated the protein FlpA, for fibronectin-like protein A.[FlpA]
+We have investigated a novel AA-ABC transporter system, encoded by cj0467 to cj0469 which led us to designate these genes (paqP and paqQ)
+Amino acid substitution mutagenesis demonstrated that R327, a basic amino acid that is highly conserved in CfrA, plays a critical role in ferric enterobactin acquisition in Campylobacter jejuni.[CfrA]
+The crystal structure of the GT family 42 Campylobacter jejuni alpha-2,3/2,8-sialyltransferase (CstII) provides key insights into the sialyl-transfer mechanism, including tentative identification of His188 as the catalytic base [CstII]
+Data conclude that FlpA mediates C. jejuni attachment to host epithelial cells via fibronectin binding.
+UDP-N-acetylgalactopyranose mutase (UNGM), has relaxed specificity and can use either UDP-Gal or UDP-GalNAc as a substrate.[UNGM]
+ModE of C. jejuni differentially regulates both molybdenum and tungsten transport (ModE).
+The result confirms that PglB is solely responsible for the oligosaccharyltransferase activity and complements the finding that PglB exhibits relaxed sugar substrate specificity.(PglB)
+A new FeEnt receptor CfrB was indentified and characterized using both in vitro and in vivo systems. [CfrB]
+role of PPK2 as a novel pathogenicity determinant that is critical for C. jejuni survival, adaptation, and persistence in the host environments [PPK2]
+The analysis constitutes the first characterization of an Oligosaccharyltransferase from delta-proteobacteria involved in N-linked protein glycosylation.
+The crystal structure of pyridoxal phosphate-bound SpeA from Campylobacter jejuni is reported at 3.0A resolution and that of Escherichia coli SpeA in complex with a sulfate ion is reported at 3.1A resolution.[SpeA]
+study describes that the possession of cytochrome c oxidoreductase (SOR)and the ability to utilize sulphite as an electron donor significantly influences bacterial motility, gene regulation, autoagglutination and the invasiveness of C. jejuni [SOR]
+membrane cholesterol plays an essential role in the binding of C. jejuni CDT subunits to membrane rafts, which promotes the pathogenic events in host cells[cdta, cdtb,cdtc]
+Cj0561c was more effectively induced by bile salts than cmeABC and taurocholate was superior to cholate as an inducer of transcription.  [Cj0561]
+the contribution of phoX in poly P synthesis and in TAT-system mediated stress responses [phoX]
+ChuZ-haemin complex crystals belonged to space group C222(1), with unit-cell parameters a = 106.474, b = 106.698, c = 52.464 A, alpha = beta = gamma = 90 degrees [ChuZ]
+Quality control C. jejuni ATCC33560 contains frameshift mutation in CmeR regulator. [CmerR]
+This study confirms that a putative galactosyltransferase encoded by cj1136 is involved in lipooligosaccharide biosynthesis and is important for Campylobacter jejuni virulence[cj1136].
+anabolic ornithine carbamoyltransferase structure presents an open conformation of the enzyme with a relatively flexible orientation of the L-ornithine-binding domain respective to the carbamoyl phosphate-binding domain[ornithine carbamoyltransferase ]
+Novel aminoglycoside 2''-phosphotransferase has been identified in Campylobacter jejuni. [aminoglycoside 2''-phosphotransferase]
+Together, this study identified and characterized a novel periplasmic trilactone esterase and suggested a new model of ferric enterobactin acquisition in Campylobacter jejuni.[trilactone esterase]
+Dihydrodipicolinate synthase from Campylobacter jejuni: kinetic mechanism of cooperative allosteric inhibition and inhibitor-induced substrate cooperativity(Dihydrodipicolinate synthase )
+pdxA gene affects the pyridoxal-5'-phosphate-mediated flagellar motility function [ pdxA]
+This is the first report characterising Cj1564 as a multi-ligand receptor for C. jejuni, we therefore, propose to name this receptor CcmL, Campylobacter chemoreceptor for multiple ligands.
+Peptidoglycan analysis of a Deltapgp1Deltapgp2 double mutant demonstrated that Pgp2 activity is required to generate the tripeptide substrate for Pgp1.[Pgp2, Pgp1]
+cj0268c gene is involved in mediating C. jejuni induced immunopathogenesis in vivo [cj0268c]
+Data report the crystal structure of C. jejuni CmeC, the outer membrane component of the CmeABC tripartite multidrug efflux system. The structure reveals a possible mechanism for substrate export.[CmeC]
+the role of His85 in the activity of CstII has been investigated by mutating it to Ala, Phe, Trp or Tyr. His85 is found to be essential for alpha2,3-sialyltransferase activity but not alpha2,8-sialyltransferase activity [CstII]
+Phenotype microarray analysis identifies a new peptide transporter A (CptA) shown to participate in the glutathione-derivative Cys-Gly catabolism in Campylobacter jejuni. [CptA]
+CjDsbA1 is the primary thiol-oxidoreductase affecting life processes associated with bacterial spread and host colonization and CjDsbA2 activity does not affect the same processes.[CjDsbA1, CjDsbA2]
+Crystall EptC structure reveals the requirement for Thr266 as well as the nearby residues Asn308, Ser309, His358 and His440 for EptC activity. [EptC]
+crystal structures of DHDPS from Campylobacter jejuni with and without its inhibitor bound to the allosteric sites
+The crystal structures of PseH, an N-acetyltransferase, alone and in complex with acetyl coenzyme A were determined at 1.95 A resolution. [PseH]
+ArsP is the first identified efflux system specific for trivalent organoarsenicals [Arsp]
+demonstration of mechanism of PglK-catalysed lipid-linked oligosaccharide flipping based on crystal structures in distinct states, a newly devised in vitro flipping assay, and in vivo studies [PglK]
+The H25 and H37 residues at the ferroxidase Dps are not strictly required for metal binding and oxidation. [Dps]
+The water-filled channel of MOMP has a narrow constriction zone, and single-molecule studies show a monomeric conductivity of 0.7+/-0.2 nS and a trimeric conductance of 2.2+/-0.2 nS.[MOMP]
+All rod-shaped Campylobacter jejuni transposons mutants and all rod-shaped laboratory, clinical and environmental Campylobacter jejuni and Campylobacter coli contained genetic changes within the pgp1 or pgp2 genes, which encode peptidoglycan modifying enzymes. [pgp1]; [pgp2]
+study confirms that both the heme uptake system and HeuR are required for full chicken gastrointestinal tract colonization, with the heuR mutant being particularly affected during competition with wild-type C. jejuni Transcriptomic analysis identified the chu genes-and those encoding other iron uptake systems-as regulatory targets of HeuR [HeuR].
+the first three-dimensional structures of the enzyme in various complexes determined to resolutions of 1.7 A or higher. Of particular significance are the external aldimine structures of WlaRG solved in the presence of either dTDP-3-amino-3,6-dideoxy-d-galactose or dTDP-3-amino-3,6-dideoxy-d-glucose.
+Report the crystal structures of Campylobacter jejuni Cas9 (CjCas9), one of the smallest Cas9 orthologs, in complex with a guide RNA and its target DNA.
+Docking the model of the FlgK junction onto the structure of the Campylobacter hook provides some clues about its divergence.[FlgK]
+Here, the authors investigate the mechanism of Cj0588 action and demonstrate that it is a type I homolog of TlyA that 2'-O-methylates 23S rRNA nucleotide C1920.[TlyA]
+These findings suggest that C. jejuni Cas9 is a promiscuous nuclease that can coordinately target both DNA and RNA.
+that Cj1415 catalyzes the ATP-dependent phosphorylation of CDP-NH2 to form 3'-phospho-cytidine-5'-diphosphoramidate. Cj1415 will also catalyze the phosphorylation of adenosine diphosphoramidate (ADP-NH2) and uridine diphosphoramidate (UDP-NH2) but at significantly reduced rates. It is proposed that Cj1415 be named cytidine diphosphoramidate kinase.
+CapC is a novel virulence factor in C. jejuni that contributes to adhesion and invasion of the intestinal epithelium [CapC].
+NapA displays Michaelis-Menten kinetics (Fig. 2), with a calculated maximum velocity (Vmax) of 3.40 +/- 0.10 mumoles min-1 mg protein-1 and a KM for NO3- of 3.40 +/- 0.44 muM.  [NapA]
+the crystal structure of a DLP heterotypic pair from the pathogen Campylobacter jejuni, is reported.[DLP1, DLP2]
+TLP12 is a chemoreceptor for glutamate and pyruvate recognition.[Tlp12]
+TsdAs from Campylobacter jejuni, a microaerobic human pathogen, and from the purple sulfur bacterium Allochromatium vinosum, were examined.[TsdA]
+Pgp3 has d,d-carboxy- and d,d-endopeptidase activities.Pgp3 crystal structure reveals domain architecture.[Pgp3]
+Structural analysis of a Simpl-like protein from Campylobacter jejuni.
+Structure-function studies of the C3/C5 epimerases and C4 reductases of the Campylobacter jejuni capsular heptose modification pathways.
+The increased incidence of the tnpA gene in gastric cancer patients suggests a role of the tnpA gene in the development of H. pylori induced gastric cancer.
+The three-dimensional structure of H. pylori ACP and its structural characteristics were clarified using NMR and CD spectroscopy [Acyl carrier protein]
+crystal structure of Spermidine Synthase [Spermidine Synthase]
+interaction of HSP60 with TLR (toll-like receptors)in gastric epithelial cells contributes to development of gastic inflammation of H. pylori infection. [HSP60]
+results demonstrate that periplasmic carbonic anhydrase is essential for survival of H. pylori in an acid environment studied in vitro [alpha-CA strain ATCC43504]
+interacts with fibronectin and alters HeLa cell adhesion and cytoskeletal organization in vitro [VacA]
+The vacuolating activity of VacA is due mainly to the free-soluble form rather than the outer membrane vesicle-associated form of VacA.
+Variance of vacA genotypes of local H. pylori isolates mainly lied in mid-region.[VacA]
+Crystal structure of quinolinic acid phosphoribosyltransferase from Helicobacter pylori [Hp-QAPRTase]
+role of DsbI protein in Helicobacter pylori pathogenesis; demonstrated that a dsbI mutant impaired in disulfide bond formation revealed a greatly reduced ability to colonize mice gastric mucosa [DsbI]
+The recombinant KatA has original antigenicity. [KatA]
+Altogether, Ni-free and Ni-bound structures have allowed determination of the route for nickel within HpNikR and reveal the cooperativity between the tetramerization domain and the DNA-binding domain. [NikR protein]
+We identify the gene hp0421 as encoding the enzyme cholesterol-alpha-glucosyltransferase responsible for cholesterol glucosylation [hp0421]
+we analyzed the amino acid sequence of HrcA that predicted association of this protein to the inner membrane, which was experimentally verified. The functionality of the purified protein was then confirmed with an in vitro DNA-binding assay.[HrcA]
+The prevalence of cytotoxin-associated gene A positivity was significantly higher in Behcet's disease compared to the controls [cagA]
+hp0015 is associated with adhesion, and hp0015, hp0016, and hp0017 are associated with natural transformation. Hp0017 has been named as virB4/comB4. Therefore, hp0015 and hp0016 are named as comB2 and comB3, respectively.[virB4, comB2, comB3]
+structure-function relationships of residues in the fifth transmembrane domain (TM5) of the Na+/H+ antiporter A (NhaA) from Helicobacter pylori [Na+/H+ antiporter]
+These results indicate that perturbation of the E-cadherin/beta-catenin complex by H. pylori CagA plays an important role in the development of intestinal metaplasia.
+results suggest that ERK and p38 MAPK signalling linked to the TLR2 recognition receptor in human monocytes may be an important pathway in H. pylori-HSP60-induced IL-8 secretion [HSP-60]
+Helicobacter pylori formamidase AmiF has a cysteine-glutamate-lysine catalytic triad, as shown by crystallographic analysis
+GatCAB is equally efficient in glutamine-dependent transamidation of Asp-tRNAAsn and Glu-tRNAGln [GatCAB]
+The H.pylori neutrophil-activating protein is able to bind and condense DNA by a mechanism different from that described for E.coli Dps (neutrophil-activating protein).
+Study identified Crk adapter proteins, Rac1 and H-Ras, but not RhoA or Cdc42 as crucial components of the CagA-induced phenotype.
+High levels of diversity of activity of CagA H. pylori strains in gastric epithelial cells and its association with polymorphism in CagA gene. [CagA]
+provides further evidence for a causal role of CagA+ H pylori infection in the immunopathogenesis of gastric cancer [CagA]
+Present work provides useful information for understanding the D-Ala-D-Ala ligase of Helicobacter pylori.
+Crystal structure of YbgC was determined and its enzymatic activity was characterized. (YbgC)
+These data indicate that the assembly of functional oligomeric VacA complexes is dependent on specific sequences, including amino acids 346 and 347, within the p55 amino-terminal subdomain. [VacA]
+the effect of VacA on the secretion of macrophages as an individual virulence determinant [VacA]
+Hpn-like (Hpnl) protein, encoded by the hpnl gene in Helicobacter pylori and featuring a histidine-rich and two glutamine-rich motifs, can render nickel tolerance to H. pylori when the external nickel level reaches toxic limits.[hpnl]
+cagT can stimulate SGC-7901 cells to express cytokine interleukin-8 and inhibit proliferation [cagT]
+in unstable angina patients, immune response against CagA-positive H. pylori strains might be critical to coronary instability mediated by antigen mimicry between CagA antigen and a protein contained in coronary atherosclerotic plaques[CAGA]Review
+Study shows a significant proatherogenic effect of H. pylori-secreted factor VacA on a range of vascular endothelial dysfunction markers.
+Genotyping of vacA and cagA in H. pylori by a multiplex polymerase chain reaction assay for use in developing countries is reported.[vacA; cagA]
+Protein dynamics and flexibility in the activated and inactivated state, respectively, was analysed by probing accessibility in (1)H/(2)H exchange experiments for the wild type and the mutant NhaA which is constitutively active independent of pH.[NhaA]
+In China the prevalence of dupA gene was highest in duodenal ulcer and inversely related to gastric ulcer and gastric cancer.
+ClpP and ClpA mutants display reduced macrophage and murine survival. [ClpA, ClpP]
+inhibition of EGFR endocytosis occurs via a CagA-dependent activation of the non-receptor kinase c-Abl, which in turn phosphorylates the EGFR target site pY1173.[CagA in strain P1]
+These data indicate that in some strains of H. pylori, the HopQ outer membrane protein can attenuate bacterial adherence to gastric epithelial cells.[HopQ]
+The interactions between HPNikR and the target operator sequences of the genes directly regulated (ureA, NixA, NikR, Fur OPI, Fur OPII, Frpb4, FecA3, and exbB) were characterized.[NikR]
+study reports a statistical link between the East Asian CagA EPIYA-ABD genotype and the development of gastric cancer [CagA]
+the induction of autophagy by VacA may represent a host mechanism to limit toxin-induced cellular damage [VacA, strain 60190]
+Deletion of amino acids 3-11 of NikR abolished the nickel-responsive activity and enhanced nonspecific DNA binding. [NikR]
+findings show that cagA gene is relevant to the expressions of antioxidant proteins of H pylori, which may be a novel mechanism involved in H pylori cagA pathogenesis[cagA]
+DadA with 44 kDa molecular mass possessed FAD as cofactor, and showed the highest activity to D-proline. [DadA]
+Virulence factors like cagA and vacA enhance gastric mucosal inflammation & are associated with the development of peptic ulcer & gastric cancer. They induce proinflammatory cytokines. [vacA;cagA] Review.
+the neutrophil-activating protein not only plays a role in driving Th1 inflammation but it is also able to inhibit Th2 responses in vitro and in vivo in allergic bronchial asthma, in humans and mice (neutrophil-activating protein; NAP)
+Binding of H. pylori adhesins BabA and SabA to the whole range of salivary proteins was explored.[SabA]
+A significant correlation between peptic ulceration and the presence of H. pylori isolates carrying cagE and cagA genes was demonstrated in Iranian patients. (cagE and cagA)
+results indicate that CagA variants are linked with premalignant lesions in distinct populations and that epithelial responses to these strains are selective based upon locale [CagA]
+FldA induction is independent of the Fur protein under iron starvation. [FldA, Fur]
+Deletion of FlhB inhibits expression of both RpoN- and FliA- dependent reporter genes.
+These studies thus show that the H. pylori CheV proteins each differently affect swimming behaviour. [CheV1, CheV2, CheV3]
+The HugZ-haemin complex has been purified and crystallized and diffraction data sets have been collected to 1.8 A resolution.[HugZ]
+The secreted Helicobacter cysteine-rich protein A causes adherence of human monocytes and differentiation into a macrophage-like phenotype
+The structures of a truncated version of Tipalpha (TipalphaN34) in two crystal forms are presented here
+Helicobacter pylori strains isolated from Mexican chronic gastritis patients are highly positive for vacA, cagA and babA2 virulence markers. [vacA, cagA, babA2]
+The present study focuses on the metal-binding properties of HpUreE (Helicobacter pylori UreE) and its interaction with the related accessory protein HpUreG.[UreE, UreG]
+CagA, vacA s1m1, and iceA1 genotypes are the predominant genotypes of H pylori isolated from the southeastern European pediatric population. [cagA, vacA, and iceA]
+findings show that the biological half-life of CagA is about 200 min in gastric epithelial cells; CagA is a relatively short half-life protein whose stability may be modulated through complex formation with PAR1 [CagA]
+Using in vitro infection assays, the authors showed that Helicobacter pylori CagA interacts with E-cadherin, p120-catenin, and c-Met.
+These results indicated that the oligomeric status of HpHsp60s might have an important role in regulating host inflammation and thus help facilitate H. pylori persistent infection. (Hsp60)
+A higher prevalence of more virulent cagA genotype was found in children compared to adults. [cagA]
+All 126 isolates possessed cagA, with the majority encoding EPIYA-A (97.6%) and all encoding EPIYA-B. [cagA]
+VacA activated NF-kappaB via classical but not alternative pathway. [VacA]
+These results revealed that the C-terminal region of HPNAP is indispensable for human neutrophil stimulation and their further adhesion to endothelial cells - a step necessary to H. pylori inflammation.[ HPNAP]
+Report distribution of Helicobacter pylori (strain not specified) cagA, cagE, oipA and vacA in different major ethnic groups in Tehran, Iran.
+H. pylori is likely to adhere to the gastric mucosa with sialic acid binding adhesin(SabA). Expression is frequently switched "on" or "off", suggesting that SabA expression can rapidly respond to changing conditions in the stomach. [REVIEW]
+The structure of the 3' region of the cagA gene in Helicobacter pylori isolated from an Iranian population was Western type.
+Identified is a new icd gene encoding isocitrate dehydrogenase from Helicobacter pylori.[isocitrate dehydrogenase]
+under acidic conditions, HP-ferritin was upregulated at pH 5 compared to pH 7; it can switch from an iron-storage protein with ferroxidase activity to a DNA-binding/protection function upon exposure to acidic environment [HP-ferritin]
+[VacA] Chronic infection of VacA-positive Helicobacter pylori may increase the risk for atrial fibrillation by inducing systemic inflammation.
+cagA in situ expression is increased in H pylori-infected children with peptic ulcers and may play a role in the pathogenesis of peptic ulcer disease during childhood [cagA]
+Characterization of site-specific mutants of alkylhydroperoxide reductase with dual functionality [ahpC]
+In conclusion, these data reinforce the notion that Helicobacter pylori neutrophil-activating protein has a pivotal role in sustaining a prolonged activation of monocytes and neutrophils.
+H. pylori urease may exist in aggregated and dissociated forms, each with intact function but differing kinetics that may be of importance in maximizing urea breakdown at varying urea concentrations in vivo. [Urease/ H. pylori ATCC 49503]
+The interaction of two helical antimicrobial peptides, HPA3 and HPA3P, derived from RpL1, with planar supported lipid membranes was quantitatively analysed using two complementary optical biosensors.[RpL1]
+The presence of cagE and virB11 cag pathogenicity island genes shows that they are important factors for the pathogenesis and malignancy of gastric cancer related to H. pylori. [cagE, virB11]
+VacA p58 induced apoptosis in gastric epithelial carcinoma cells; apoptotic process is associated with the up-regulation of Bax/VDAC1 and downregulation of Bcl-2 [VacA]
+findings show that translocation and phosphorylation of CagA are necessary, but not sufficient, for the induction of hummingbird phenotype in AGS cells infected with Helicobacter pylori [CagA]
+The biochemical properties of site-directed mutants indicate that H45, C51, and C53 of GroES make up an oxidation-sensitive zinc-binding site that may donate the bound metal to a zinc acceptor.[GroES]
+Data demonstrated the binding of BeF3- to HpCheY1 and the interaction between BeF3--HpCheY1 and HpFliM. Comparison of the BeF3--HpCheY1 and BeF3--EcCheY structures revealed a distinctive FliM binding surface. [CheY1]
+Data show that structural study combined with functional analyses provides essential information for understanding the reaction mechanism of bacterial UGPases, as well as a platform for the development of novel antibacterial agents: [HpUGPase]
+Findings provide evidence that gamma-glutamyl transpeptidase (GGT) is a pathogenic factor associated with H pylori-induced peptic ulcer disease.
+CagA protein negatively regulates the functions of DC via CagA phosphorylation and that cagA-positive H. pylori strains suppress host immune responses resulting in their chronic colonization of the stomach.
+HP0256 is required for full motility and it is involved, possibly indirectly, in expression of outer membrane proteins and adhesins involved in pathogenesis and adhesion.[HP0256]
+dupA promotes duodenal ulceration in some populations and GU and GC in others. This is typical of other virulence factors, such as cagA. Hence, it was concluded that the H. pylori virulence factor, dupA, is a true virulence factor.[dupA](Meta-Analysis)
+VacA induces apoptosis mediated by BAX and BAK but additionally induces the translocation of BAX to mitochondrial endosomes[VacA induces apoptosis mediated by BAX and BAK but additionally induces the translocation of BAX to mitochondrial endosomes [VacA]
+Host membrane phosphatidylserine plays a key role in the delivery, localization, and pathophysiological action of CagA.
+The bacterial risk factor iceA2 seems an important predictor of severe histological changes in chronic gastritis, separately or in combination with host genetic factors in the Venezuelan population.
+The authors found that Helicobacter pylori CheZ (CheZ(HP)) efficiently dephosphorylates CheY(HP) and CheAY and has additional weak activity on CheV2.[CheZ]
+CagL may contribute directly to H. pylori pathogenesis by promoting aberrant signaling cross-talk within host cells.
+This study used bioinformatic and statistical analyses to evaluate whether the allelic diversity of the outer membrane proteins homB and homA is generated by recombination.[homA; homB]
+These results suggest that plasma membrane sphingomyelin is required for targeting of Helicobacter pylori VacA to membrane rafts important for subsequent Cdc42-dependent pinocytic cellular entry.[VacA]
+These data suggest that HpHSP60 enhances angiogenesis via CXCR2/PLCbeta2/Ca2+ signal transduction in endothelial cells.(HSP60)
+The zinc site and protein structure in dimeric HypA are dependent on both the nickel binding status and the pH.[HypA]
+The crystal structure of the urease maturation protein UreE from Helicobacter pylori has been determined in its apo form at 2.1 A resolution, bound to Cu(2+) at 2.7 A resolution, and bound to Ni(2+) at 3.1 A resolution. [UreE]
+CagA suppresses pinocytic endocytosis and the cytotoxicity of VacA in gastric epithelial cells without affecting clathrin-dependent endocytosis.[CagA, VacA]
+ligand induced conformational changes in H.pylori LuxS [LuxS]
+Polymorphism of host MMP-3, but noth dupA of Helicobacter pylori, correlate with the susceptibility to duodenal ulcer. [dupA]
+report describes a lack of association between H. pylori CagA-protein polymorphisms and pathogenesis [CagA]
+Thus, HdpA is the first enzyme belonging to the M23-peptidase family able to perform the d,d-carboxypeptidation and regulate cell shape.[HdpA]
+CagA exploits a polarity-signaling pathway to induce oncogenesis [CagA]
+a large-scale comprehensive study to determine the genotype of Helicobacter pylori cagA gene in Hong Kong
+CHLalphaGcT is originally synthesized in the cytoplasm of H. pylori as an inactive form and then activated when it is associated with the cell membrane [cholesterol alpha-glucosyltransferase]
+Both cholesterol and the putative bile salt efflux pump HefC play important roles in H. pylori resistance to bile salts and ceragenins.[HefC]
+We demonstrate through sequence and structural comparisons that HugZ belongs to a new heme-binding protein family with a split-barrel fold[HUGZ]
+Infection with a H. pylori strain containing the dupA without the stop codon polymorphisms is associated with a lower risk of development of gastric carcinoma in Brazilian subjects.[dupA]
+infection with East-Asian-type CagA H. pylori was more closely associated with gastric mucosal atrophy and gastric cancer than infection with non-East-Asian-type CagA H. pylori [CagA]
+Data show that CtkA from H. pylori J99 is a unique eukaryotic-type Ser/Thr kinase that translocates into human cells to up-regulate the NF-kappaB activity in a kinase-dependent manner [CtkA/JHP940].
+results indicate that a discrete surface of the urease UreA-UreB complex is important for Helicobacter pylori strain X47 persistence during gastric colonisation [UreA & UreB]
+The data presented here show that NikR may first select its targets by identifying sequences within the previously defined consensus and subsequently establish base-specific contacts to firmly bind DNA, in particular with the fecA3 target.[NikR; fecA3]
+fur mutations can affect metronidazole susceptibility by altering the balance among Fur's several competing activities.[fur]
+propose VacA augments H pylori-induced mucosal inflammation in the stomach by causing programmed necrosis of gastric epithelial cells and release of proinflammatory proteins and may contribute to pathogenesis of gastric cancer and peptic ulceration [VacA]
+A comparison of the binding mode and thermodynamic stability of the complexes of peptides from the C-terminal domains of HspA and Hpn proteins with four metals (HspA and Hpn).
+Data demonstrate that H. pylori HSP60/mAbs could modulate helicobacterial pathogenesis by increasing IL-8 and TNF-alpha production [Hsp60].
+Functioning of the fur Gene is Required for the acid tolerance response. [Fur]
+in gastric cancer patients infected with cagA-negative H. pylori, the s1m1 allelic combination of vacA was more frequent (54.4%), where s1 was present in 81.8% of the samples [VacA]
+Ccrp59 and Ccrp1143 are essential for the maintenance of proper cell shape. [Ccrp59; Ccrp1143]
+Quantification of the in vivo Ni(2+)-NikR response of 11 direct NikR targets that encode functions related to nickel metabolism, four activated and seven repressed genes (NikR).
+The interaction between the human NimA-like protein kinase Nek9 and the Helicobacter HcpC has been validated by ELISA and surface plasmon resonance.
+The 147C strain of Helicobacter pylori expressing tyrosine-phosphorylated CagA (EPIYA present) induced enhanced MMP-9 secretion by gastric epithelial cells.[CagA]
+Detailed characterization of a functionally unknown gene (HP986), which was detected in patient isolates, is reported.[HP986]
+The authors discovered that Helicobacter pylori strains establish bacterial colonies deep in the gastric glands and identified a novel protein, ChePep, necessary to colonize this niche.[ChePep]
+The cag4 of Helicobacter pylori NCTC11637 has the enzyme activity of lytic transglycosylase. [cag4]
+The role of CagA dimerization in induction of the hummingbird phenotype, was investigated.[CagA]
+CagA in the stomach plays an important role in the migration of H. pylori-primed CD4(+) T cells in the gastric mucosa. [CagA]
+These results clarify recombination-mediated routes of cagA evolution and provide a solid basis for a deeper understanding of its function in pathogenesis.[cagA]
+DupA seems to protect against gastic ulcer and gastric cancer development, whereas a positive association was observed between the occurrence of duodenal ulcer and the presence of DupA.  [DupA]
+the high prevalence of in-frame oipA gene strains (81%), associated with peptic ulcers and cagA(+), vacA s1, m1, m2, and, importantly, i1 genotypes, indicates a strong synergistic activity of H. pylori virulence factors [oipA]
+(cagA) An inhibitory effect of H. pylori results from activation of the transcription factor heat shock factor(HSF)-1 by H. pylori virulence factor CagA and by host signaling molecules ERK1/2 and JNK kinases [CagA]
+expression, purification and characterization of RocF and its apo form [RocF]
+Thermal denaturation studies demonstrated that Ser88 and His91 both play crucial roles in the stability of the protein as their mutants showed a decrease in the melting temperature. [Arginase]
+H. pylori DsbG functions as a reductase against HP0518, a putative L,D-transpeptidase with a catalytic cysteine residue [DsbG]
+Mutantion of cagI caused a reduction in the degree of CagA translocation. [cagI]
+The presence of jhp0945 was significantly associated with gastric ulcer, duodenal ulcer, and gastric cancer (odds ratios [95% confidence intervals]: 2.27 [1.04 to 4.98], 1.86 [1.03 to 3.34], and 1.92 [1.03 to 3.56], respectively).[jhp0945]
+analysis reveals how the structure responds to linker separation and suggests a mechanism of MotB activation that entails linker unfolding and rotational displacement of MotB transmembrane helices[MotB]
+This study has also shown significantly lower disease burden in Gambians infected with a mixture of cag-positive and cag-negative strains.[cagA]
+Both CagA-SHP2 and CagA-PAR1 interactions are involved in the pathogenicity of cagA-positive Helicobacter pylori.[CagA]
+Inactivation of PldD inhibited activation of extracellular signal-regulated kinases 1 and 2 (ERK1/2), indicating that Helicobacter pylori hemolytic phospholipases also harbor MAPK-activating properties.[PldD]
+Arginine 66 but not histidine 99 in H. pylori Fur is required for the regulatory function of the Fur protein in the acid adaptation mechanism of the bacterium.(Fur )
+this experiment demonstrated that FecA1 is an important determinant of the host-colonization ability and Mtz resistance of H. pylori through Fe(2+) supply to SodB, suggesting that FecA1 may be a possible target for the development of a novel bactericidal drug.
+Infection with hrgA-positive strain was not frequent among patients with gastric cancer. Presence of hrgA gene would not be a useful marker to predict clinical outcome of patients infected with H. pylori in this series of Japanese patients.
+hpyAVIBM presents an interesting example of allelic variations in H. pylori where changes in the nucleotide sequence result in proteins with new properties. (AVIBM)
+structures of DTBS from Helicobacter pylori (hpDTBS) bound with cofactors and a substrate analog, and described its unique characteristics relative to other DTBS proteins.(DTBS))
+a model of CagA-directed REG3gamma expression in gastric epithelial cells via activation of the IL-11/gp130/STAT3 pathway [CagA]
+The number of Helicobacter pylori CagA EPIYA C tyrosine phosphorylation motifs influences the pattern of gastritis and the development of gastric carcinoma.
+In H. pylori, a non-discriminating aspartyl-tRNA synthetase (ND-AspRS)and GatCAB co-evolved to generate an appropriate kinetic system able to reduce translational error level and to ensure a faithful codon reassignment for Asn(ND-AspRS and GatCAB).
+c-Src phosphorylated EPIYA-C & -D. c-Abl phosphorylated EPIYA-A, -B, -C, -D. CagA molecules were phosphorylated on 1 or 2 EPIYA motifs, but never simultaneously on 3 motifs. CagA.
+p27kip1 upregulated by hnRNPC1/2 antagonizes CagA-mediated pathogenesis.[CagA]
+A model of DNA recognition by HpNikR is proposed in which Ni(II) coordination to specific sites in the metal-binding domain have a long-range effect on the flexibility of the DNA-binding domains.[NikR]
+Herein, the authors carried out extensive analysis of Fur-regulated promoters and identified a 7-1-7 motif with dyad symmetry (5'-TAATAATnATTATTA-3'), which functions as the Fur box core sequence of Helicobacter pylori.[fur]
+These results indicate that the VacA i-region is an important determinant of VacA effects on human T cell function.(vacA)
+These results demonstrate that the dprB product plays important roles affecting inter- and intragenomic recombination.[dprB]
+Study confirms the alarming levels of antibiotic resistance associated with the degree of gastric inflammation and cagA gene carriage in H. pylori strains in Pakistan.
+The crystal structure of HP-NAP in a Zn(2+)- or Cd(2+)-bound form reveals the binding of two zinc or two cadmium ions and their bridged water molecule at the ferroxidase center. [HP-NAP]
+Infection with dupA-positive H. pylori increases the overall risk for duodenal ulcer and this evidence was significant in our South-east Indian population.
+During prolonged infection, hBD3 was subsequently downregulated by the Helicobacter pylori virulence determinant CagA.[CagA]
+There is considerable heterogeneity among Helicobacter pylori strains in salt-regulated CagA expression, and these differences are attributable to variation in a specific DNA motif upstream of the cagA transcriptional start site.[CagA]
+data indicate the HtrA is active under stress conditions which might support Hp colonizing in the gastric environment
+The results indicate that cagA genotypes may be important determinants in the development of gastroduodenal sequelae of H. pylori infection. In contrast to other studies, vacA genotypes were not related to disease progression or outcome (cagA, vacA).
+ArsS, in addition to its role in urease gene transcription, is also involved in the recruitment of urease proteins to the inner membrane to augment acid acclimation during acute acid exposure.[ArsS]
+Deletion of an orphan C(5) -cytosine methyltransferase, hpyAVIBM in H. pylori strains AM5and SS1 has a significant effect on the expression of number of genes belonging to motility, adhesion and virulence.[hpyAVIBM]
+These findings suggest that four C-terminal variations of ArsS adds to the complexity of the ArsRS acid adaptation mechanism as a whole and may influence the ability of Helicobacter pylori to persist in the gastric niche for decades.[ArsS]
+H. pylori-mediated cleavage of cytokeratin 18 (CK18) appeared proportional to the number of CagA EPIYA-C and CM motifs, which seemed to be downplayed in the presence of EPIYA-B motifs [CagA]
+Details of the catalytic mechanism of Helicobacter pylori octaprenyl pyrophosphate synthase revealed by X-ray crystallography.
+We explored the frequency of sequence variation in hopZ during acute and chronic human infection and studied the association of hopZ with the phylogeographic population structure of H. pylori. [HopZ]
+Authors show that nitric oxide and haemin, two inducers of HO-1, decrease the level of phosphorylated CagA in Helicobacter pylori-infected gastric epithelial cells.[CagA]
+Authors demonstrated that the Helicobacter pylori HspB protein interferes with Nrf2/Keap1 pathway.[HspB]
+The results suggest that H. pylori strains with Thr70-type NapA have enhanced Fe ion uptake ability and are associated with the pathogenesis of iron deficiency anemia (NapA).
+After adjustment by age, gender, and cagA, the presence of intact long-type dupA was significantly associated with gastric ulcer and gastric cancer compared with gastritis.[dupA]
+results suggest that the antisense small RNA 5'ureB-sRNA downregulates ureAB expression by enhancing transcription termination 5' of ureB [ureB]
+These findings reveal a novel pathway whereby Helicobacter pylori CagL, via interaction with host integrins, can trigger pro-inflammatory responses independently of CagA translocation or NOD1 signalling.[CagA, CagL]
+CagA multimerization motifs motif patterns in the CagA 3'-variable region may be more significant than EPIYA motif patterns with respect to clinical outcomes.
+These results suggested that CagA is not required for Helicobacter pylori-induced activation of NF-kappaB and upregulation of IL-8 expression in gastric epithelial cells.
+Taken together, these findings suggest that only the N-terminal region of FlhA is needed for transcription of the RpoN regulon.[FlhA, RpoN]
+The p55 domain, composed primarily of beta-helical structures, localizes to the peripheral arms, while the p33 domain consists of two globular densities that localize within the center of the complexes.[VacA]
+Role of Helicobacter pylori methionine sulfoxide reductase in urease maturation
+In this study, another bacterial peptidoglycan modification enzyme, a putative peptidoglycan O-acetyltransferase (PatA), was identified.[PatA]
+The identification and characterization of two CD4+ T cell epitopes of Lpp20 helps understand the protective immunity of Lpp20 in H.pylori infection.[Lpp20]
+These findings provide a molecular link between Helicobacter pylori and gastric carcinogenesis through the specific accumulation of CagA in gastric cancer stem-like cells.[CagA]
+Data suggest that Trp159 and Asp126 are individually critical for retaining a bimetallic center and thereby for function of arginase. [arginase; rocF]
+review of recent studies that have begun to shed light on the role of CagA polymorphism in H. pylori disease [CagA]
+Determined is the solution structure of HP1264, one of the unusual subunits of Complex I (NADH-quinone oxidoreductase). [HP1264]
+backbone dynamics information for HP1043 (HP-RR0 implies that structural flexibilities in HP-RR(r) are necessary for the phosphorylation site and the dynamic nature of HP-RR(e) is essential for the regulation of interaction between protein and DNA.
+These results provide in vivo evidence of Wnt pathway activation by CagA downstream of or in parallel to the beta-catenin destruction complex and upstream of Tcf4.[CagA]
+Amino acid polymorphisms flanking the EPIYA-A motif of Helicobacter pylori CagA C-terminal region is associated with gastric cancer in east China.
+evolution of context-dependent differences in the nature of genetic redundancy, and function, between hcpG and hcpC may facilitate their maintenance in H. pylori genomes, and confer robustness to H. pylori growth during infection
+The flagellar localization of FaaA differs markedly from the localization of other known autotransporters, and the current results reveal an important role of FaaA in flagellar localization and motility.[FaaA]
+A nonconserved critical residue Phe534 on helicase binding interface of DnaG C-terminal domain was identified.[DnaG]
+ExbD is essential for maintenance of periplasmic buffering and membrane potential by transferring energy required for nickel uptake.[ExbD]
+Predominant gastric mucosal IL-8 mRNA expression level, and H. pylori infection are relative risks for Thai gastric cancer without correlation with cagA mutation.
+SlyD might contribute to gastric pathogenicity in Helicobacter pylori-associated diseases.[SlyD]
+These findings indicate that Helicobacter pylori VacA inhibits the development of a strong Th1-polarizing response in bone marrow-derived macrophages stimulated with Lactobacillus acidophilus by blocking the production of IFN-beta.[VacA]
+The involvement of Lewis b and H type 1 structures of H. pylori in adhesion of bacteria to MUC1 mucin, was investigated.[Lewis b, Lewis H type 1]
+A gerbil-adapted H. pylori strain with a stable genome has helped to establish that TlpD has important functions for persistent colonization in the stomach.[TlpD]
+The presence of cagA gene in larynx cancer tissues significantly decreases survival rate and increases the disease recurrence possibilities.[cagA]
+study demonstrated that the presence of babA2 may be associated with increased risks for peptic ulcer disease, especially duodenal ulcer, in western countries [babA2]
+The crystal structure of HP1028 demonstrates that it belongs to the lipocalin family.
+study of site-specific relaxase activity of a VirD2-like protein encoded within the tfs4 genomic island [VirD2]
+the molecular role of MinC [MinC]
+We conclude that decreased expression of melatonin synthesizing enzymes, AA-NAT and ASMT, in patients with symptomatic H. pylori infection returns to normal level after H. pylori eradication.
+These data suggest that gamma-glutamyltranspeptidase plays a significant role in the chronic inflammation caused by Helicobacter pylori infection.[gamma-glutamyltranspeptidase]
+Antibiotic pressure does not induce loss of the cag pathogenicity island, but it can lead to genetic rearrangements within the 3' region of cagA.
+The crystal structure of the UreG/UreF/UreH complex, which illustrates how UreF and UreH facilitate dimerization of UreG.[UreG, UreF, UreH]
+Authors identified HP1043 an essential homeostatic global regulator (HsrA [for homeostatic stress regulator]).[HsrA]
+study describes the urea transport mechanism at atomic resolution, revealed by unrestrained microsecond equilibrium molecular dynamics simulations of the hexameric channel assembly [reI]
+This study provides a mechanism for the ability of the Helicobacter pylori Fur regulator to repress the expression of both iron-inducible and iron-repressible genes (Fur).
+Chronic infection by H pylori expressing CagA correlates with high circulating levels of BNP and IL-6 in patients with acute coronary artery disease.
+This study reveals a possible association between VacA-induced apoptosis in gastric epithelial cells, and activation of endoplasmic reticulum stress in H. pylori-positive gastric mucosa.[VacA]
+Helicobacter pylori possesses a novel type of intrabacterial nanotransportation systems for VacA. [VacA]
+Helicobacter pylori vacA increase markedly gastric mucosal TGF-beta1 mRNA expression in gastritis patients. [vacA]
+strain SS1 - role in colonization and stomach metaplasia [VacA]
+FliO is required for the assembly or stability of other components of the export apparatus. [FliO; Helicobacter pylori B128]
+The most frequent clarithromycin-resistance 23S rRNA genotype in H. pylori-positive gastric biopsy specimens was A2143G, followed by A2142G (23S rRNA).
+structure and activities of Helicobacter pylori neutrophil-activating protein
+A repetitive DNA element regulates expression of the Helicobacter pylori sialic acid binding adhesin by a rheostat-like mechanism
+the molecular details of the interaction of metallochaperones UreE and HypA in Helicobacter pylori, are reported.[HypA, UreE]
+H.pylori NhaA only has a small acidic shift of its pH-dependent activity profile compared to the other transporters [NhaA]
+CagA and VacA are critical factors for inducing gastric cancer and the subsequent progression of intestinal metaplasia from chronic gastritis with an increasing age.[vaca] [Caga]
+Endoplasmic reticulum stress is critical for regulation of dendritic cell apoptotic process in response to Helicobacter pylori VacA protein stimulation.
+Studies show that OipA is an outer membrane inflammatory protein that closely correlates with H. pylori-related diseases, and may be used for clinical diagnosis and prediction of disease outcome. [OipA] , [review]
+CagA and F-BAR domains share binding specificity for phosphatidylserine and phosphoinositides.[CagA]
+The interaction of different CagA variants with the kinase Src, was investigated.[CagA]
+Authors demonstrate that gene JHP0940 can be secreted by the bacteria, triggers apoptosis in cultured mouse macrophages and acts as an auto-phosphorylating tyrosine kinase.[JHP0940]
+The study showed a high incidence of strains with increased virulence, possessing cagA, vacAs1 and iceA1 genes in symptomatic children with H. pylori infection.
+These results suggest that GKN1 might be a target to inhibit the effects from H.pylori CagA.
+These findings suggest that the BabA may form different adhesive attachments to the gastric mucosa in ways that enhance the efficiency and stability of bacterial adhesion.
+Findings from the measurement of Helicobacter pylori babA2 and vacA genotypes indicate a strong correlation between the vacA i1 allele and gastric cancer risk in the Azerbaijan area of Iran. [vacA] and [babA2]
+cagA-positive H. pylori is highly prevalent in southern Mexico, and all CagA variants were of the western type; the cagA alleles that code for EPIYA-ABCC motif patterns are associated with peptic ulcers and gastric cancer [CagA]
+results suggest that H. pylori peptidyl-prolyl cis-trans isomerase has the potential to activate mitogenic signaling pathway and to promote transformation of gastric epithelial cells [peptidyl-prolyl cis-trans isomerase]
+Peptidoglycan deacetylation by PgdA plays an important role in modulating host inflammatory responses to H. pylori, allowing the bacteria to persist and induce carcinogenic consequences in the gastric niche.[PgdA protein, Helicobacter pylori]
+Therefore, Helicobacter pylori might induce TGF-beta1-mediated epithelial-mesenchymal transition associated with the cagE.
+Helicobacter pylori is dependent on CagA translocation to induce intracellular osteopontin expression in gastric epithelial cells, and may promote gastric carcinogenesis via increased beta-catenin accumulation and interleukin-8 secretion.
+Migration inhibition of dHL-60 cells in an under agarose assay was dependent on the Helicobacter pylori cag pathogenicity island, on its effector protein CagA, and on the outer membrane protein HopQ.[CagA, HopQ]
+In fact, these result proposed that the ABCCC type CagA protein can induce the intestinal metaplasia, IL-8, perturbation of Crk adaptor proteins, anti-apoptotic effect and carcinogenic effect more significantly than ABC type.[CagA]
+The N-terminal domain 1 and the core of domain 2 share the same fold despite a very low level of sequence identity, and their surface-charge distributions are different.
+study showed a significant association between the presence of the cagA gene and gastric cancer and peptic ulcer disease, and between anti-CagA IgG and the cagA gene in Saudi patients [cagA]
+Flagellar basal body that either positively or negatively affect expression of RpoN-and FliA dependent flagellar genes.[RpoN, FliA]
+Combined CagA expression, p-SHP-2 expression, and p-ERK expression showed an increased positive predictive value (93.3% [14/15] vs. 81.8% [18/22]) and an increased specificity (95.5% [21/22] vs. 81.8% [18/22])[CagA]
+The present study demonstrated that NDGA repressed SodB activity associated with the gastric mucosal-colonization via inhibition of intracellular Fe(2+) uptake by FecA1
+The vacA s1 allele, cagA gene, and iceA2 allele were the most prevalent . the results demonstrated a high prevalence of H. pylori virulent genotypes in Cuban patients
+Study demonstrated that H. pylori OMV-CagA on its surface localize in proximity to ZO-1 protein in junctional area. Moreover, they induce strong histone H1 affinity to ATP in differentiated and polarized epithelial monolayers.[CagA]
+These results identify previously uncharacterized regions distributed throughout the protein sequence of ASPP2 as determinants of CagA binding, providing mechanistic insight into apoptosis reprogramming by CagA. [CagA]
+Helicobacter pylori CagA interacts with PRK2 and inhibits its kinase activity.
+The effects of a 10.5 M solution of aqueous urea on Helicobacter pylori urease were investigated over the course of a 500 ns molecular dynamics simulation. [urease]
+CheZ(HP) localization depends on the chemotaxis regulatory protein ChePep, and reciprocally, ChePep requires CheZ(HP) for its polar localization. These proteins interact directly. [CheZ, Helicobacter pylori]
+the genomic context of HP1029 in Helicobacter and related organisms suggests a possible role in the metabolism of bacterial surface saccharides, such as pseudaminic acid and its derivatives. [HP1029]
+Results show that UreI transporter adopts different conformations at different pH especially in the periplasmic regions, were two loops with high flexibility experienced different orientations discriminating between an open and closed conformation. [UreI]
+Study shows that STAT3 rs744166 polymorphism and infection with helicobacter pylori with CagA possessing higher number of EPIYA-C segments are independent risk factors for gastric cancer. [cagA]
+Stem-loop structure in the vacuolating cytotoxin [vacA] 5' UTR is an important determinant of vacA expression through stabilisation of the vacA mRNA transcript and this effect is of importance during conditions of environmental stress.[VacA].
+function of Csd6 in regulating the helical cell shape and motility of H. pylori [Csd6]
+the prevalence of H. pylori infection and diversity of CagA phenotype contributes to the variety of gastric cancer risk in various regions of Thailand.[CagA]
+The H. pylori vacA c1 genotype might be one of the strongest risk predictors of gastric cancer in male patients aged >/=55 in Iran (vacA).
+Our data show that during evolution of the Helicobacter genus, acquisition of Hpn and Hpn-2 by gastric Helicobacter species constituted a decisive evolutionary event to allow Helicobacter to colonize the hostile gastric environment[Hpn]
+We found that strong depletion for RNase J led to a massive increase in the steady-state levels of non-rRNAs. mRNAs and RNAs antisense to open reading frames were most affected with over 80% increased more than 2-fold
+A disulfide-clasped fucose binding loop directs BabA adherence to host ABO/Le(b) blood group.  [BabA]
+Hpsh4590 was found localized in the membrane and the periplasm of H. pylori, interacted with zinc finger protein and methionine ABC transporter ATP-binding protein, and potentially regulates DNA uptake or transfer.[Hpsh4590]
+Interactions between CagA and host proteins trigger the development of inflammatory responses and multi-step gastric cancer.[review]
+These data suggest that the PriA protein is needed for survival and persistence of Helicobacter pylori in mice stomach mucosa.[PriA]
+CagA increased tumor suppressor genes hypermethylation via stimulating DNMT1 expression through the AKT-NFkappaB pathway. [CagA]
+cagA, virB/D complex and vacA genes are expressed in Helicobacter pylori strains originating from patients with gastric diseases [cagA, vacA]
+CagA protein induces epithelial to mesenchymal transition in infected gastric epithelial cells through EPIYA-motif phosphorylation-dependent up-regulation of MMP-3.[CagA]
+CagLHM regional diversity may contribute to the varied prevalence of Helicobacter pylori-related gastric cancer observed in diverse populations.
+this study identified CagA to be an essential bacterial factor for H. pylori-mediated suppression of host HSP expression
+CagA-positive H. pylori strains containing a large number of EPIYA-C phosphorylation sites induce a decrease in D cell number and an increase in G cell number.[cagA]
+results suggest a possible role of Hp0897 in loading of DnaB at replication origin (DnaB)
+TlpD localisation is instructed by metabolic activity and protein interactions, and its sensory activity is linked to iron-sulfur cluster integrity [TlpD]
+High presence of H. pylori strains in milk and meat samples similar to vacA genotypes in human being suggests that milk and meat samples could be the sources of bacteria for human.
+Data suggest that the most significant biological effect of VacA activity on host cells leading to apoptosis is formation of membrane pores and the induction of vacuole formation. [VaxA, vacuolating cytotoxin A] [REVIEW]
+No significant associations were observed between vacA genotypes and gastric carcinoma.
+Serum KatA antibodies are associated with gastric cancer risk and KatA may serve as a biomarker for gastric cancer.
+The relationship between vacA genotypes and the development of human disease [review].
+molecular modeling studies of UvrB protein from H. pylori are carried out with homology modeling and molecular dynamics (MD) simulations. The results reveal that the predicted structure is bound to a DNA hairpin with 3-bp stem, an 11-nucleotide loop, and 3-nt 3' overhang.
+VacA targets myeloid cells and T-cells to directly and indirectly prevent H. pylori-specific T-cell responses and immune control of the infection [review].
+Taken all together, Helicobacter pylori toxin Tip-alpha might activate NF-kappaB to promote inflammation and carcinogenesis by inhibiting miR-3178 expression, which directly targets TRAF3, during Helicobacter pylori infection in gastric mucosal epithelial cells.
+In this study, the authors have identified CagI, one of the type secretion system proteins, which interacted with CagA and played an important role for CagA stability.[CagI, CagA]
+a metal-responsive DNA condensation mechanism controlled by the Helicobacter pylori ferric uptake regulator (Fur), is reported.[Fur]
+The results reveal that SHP1 is the long-sought phosphatase that can antagonize Helicobacter pylori CagA. Augmented Helicobacter pylori CagA activity, via SHP1 inhibition, might also contribute to the development of Epstein-Barr virus-positive gastric cancer.
+serum antibodies against HP-NAP represent a state of risk, which is further exacerbated in IL-4 -590 T carriers.[HP-NAP]
+Helicobacter pylori HopQ binds the amino-terminal IgV-like domain of human CEACAM1, CEACAM3, CEACAM5 or CEACAM6 proteins, thereby enabling translocation of the major pathogenicity factor CagA into host cells.[HopQ, CagA]
+Here, the authors identify members of the carcinoembryonic antigen-related cell adhesion molecule (CEACAM) family as receptors of Helicobacter pylori and show that HopQ is the surface-exposed adhesin that specifically binds human CEACAM1, CEACAM3, CEACAM5 and CEACAM6.[HopQ]
+Helicobacter pylori minicatalase, a monomeric hemeprotein with catalase core homology, has been characterized. [minicatalase]
+characterization of homC polymorphism as well as an analysis of the distribution of the various forms of homC across 160 clinical isolates; investigate the association between homC and the bab gene family; in American H. pylori clinical isolates, there was a significant association between homC (L) and carriage of babA at locus A [HomC]
+we identified an ABC transporter, that we designated NiuBDE, as a novel H. pylori nickel transport system
+VacA mediates CagA phosphorylation through RPTPalpha in AZ-521 cells.[VacA, CagA]
+CagA is required for increased expression of beta-catenin and its target CIC markers via downregulation of microRNA (miR)-320a and miR-4496. [CagA protein, Helicobacter pylori NCTC11637]
+we found that chronic corpus atrophic gastritis was non-significantly associated with an increased pancreatic cancer risk (OR = 1.35; 95% CI: 0.77, 2.37), and although based on small numbers, the excess risk was particularly marked among individuals seronegative for both H. pylori and CagA (OR = 5.66; 95% CI: 1.59, 20.19, p value for interaction < 0.01).
+transcription of the aapA1 gene generates a full-length transcript whose folding impedes translation ( a 3 end processing of this message generates a shorter transcript that, after a structural rearrangement, becomes translatable but this rearrangement also leads to the formation of two stem-loop structures allowing formation of an extended duplex with IsoA1 via kissing-loop interactions.
+we discovered that the chemoreceptors TlpA and TlpD are each independent acid sensors. They enable H. pylori to respond to and escape from increases in hydrogen ion concentration near 100 nanomolar
+CagU is a bacterial inner membrane-associated protein, partially processed at the C terminus, and that it interacts with the VirB6 and VirB8 homologs CagW and CagV, respectively.[Cagu]
+Results show that vacA i1m1 and vacA i1m2 genotypes were strongly associated with the risk of Gastric Cancer(GC) while vacAs1/cagA+ seems to be a risk factor for Duodenal Ulcer since it is inversely associated with GC (VacA and CagA)
+ComB complex, present in the bacterial wall and essential for DNA uptake, can be a limiting factor for transformation efficiency.[ComB]
+Crystal structure of the N-terminal anticodon-binding domain of the nondiscriminating aspartyl-tRNA synthetase from Helicobacter pylori has been reported. [aspartyl-tRNA synthetase]
+Changes in the genetic composition of cagY mirrored cagT4SS function, although the mechanisms of cagY alterations differed in human isolates (mutations) versus gerbil isolates (addition/deletion of motifs). These results indicate that host carcinogenic phenotypes modify cagT4SS function via altering cagY, allowing the bacteria to persist and induce carcinogenic consequences in the gastric niche
+Logistic regression model analysis showed that the vacAi1 isoform gene in the infected strains and the severity of the diseases outcome were highly associated, causing severe gastric damage that may lead to gastric cancer. Conversely, cagA and genes were not associated with damage, while the dupA gene was associated significantly with non-severe clinical outcome.[cagA, vacA, dupA]
+Structural characterization of purine nucleoside phosphorylase from human pathogen Helicobacter pylori [purine nucleoside phosphorylase]
+Arginase of Helicobacter Gastric Pathogens Uses a Unique Set of Non-catalytic Residues for Catalysis [arginase]
+H. pylori infection of rhesus macaques is under independent selective pressure for loss of babA and overexpression of babB. Overexpression of BabB enhances H. pylori fitness. Loss of BabA expression in rhesus monkeys is not dependent on its capacity to bind blood group antigen Leb. [BabA; BabB]
+Review of how the polymorphisms located in the flexible C-terminal tail of CagA quantitatively influence its virulence and affect the outcome of gastrointestinal diseases (review, CagA).
+These results suggest the possibility that loss of BabA expression is not driven by adaptive immunity or toll-like receptor signaling, and that BabA may have other, unrecognized functions in addition to serving as an adhesin that binds Le(b).
+Meta-analysis showed that in Asia 1 EPIYA-D motif was significantly associated with increased gastric cancer (GC) risk. Multiple EPIYA-C motifs were associated with increased peptic ulcer disease and duodenal ulcer risk, particularly in Asia. In the United States and Europe, multiple EPIYA-C motifs were associated with increased GC risk. [CagA]
+hopQ genotypes were determined among H. pylori isolates obtained from patients with gastroduodenal disorders and their association with the clinical outcome was assessed. hopQI was present in 35%, while hopQII was positive in 55% . For gastritis subjects, the rate of hopQII compared to hopQI was higher, and a statistically significant difference was found between hopQII genotype and the clinical outcome. hopQ.
+MutS2:  A molecular basis for the functions of HpMutS2 in DNA recombination and repair. DNA binding domain (SDB) was mapped to the linker region between ATPase domain and Smr domain. Further, SDB was defined as a sequence of 30- amino-acid-residues containing a "KPPKNKFKPPK" motif.
+CagA role in the overcoming podocyte filtration barrier via p38 MAPK signaling pathway [CagA]
+It is likely that H. pylori carrying high expression of sabA causes iron deficiency anemia, especially in children and adolescents who have increased daily iron demand. [sabA]
+Together, these data suggest that polymorphism in the CagA C-terminus is responsible for differential alterations in some, but not all, host cell signaling pathways.[CagA]
+East Asian CagA and Western CagA exploit distinct mechanisms for SHP2 deregulation.[CagA]
+H. pylori CagA protein negatively regulates autophagy and promotes the inflammation in H. pylori infection, which is regulated by c-Met-PI3K/Akt-mTOR signaling pathway activation.  [CagA]
+CagA can alter gut microbiota and exacerbate cell proliferation and immune phenotypes previously attributed to H. pylori infection[caga]
+[gGT] compared mice showing similar bacterial load after infection with gGT-proficient or gGT-deficient H. pylori to analyse the specific role of the enzyme during infection. H. pylori gGT supports initial colonization. Nevertheless, bacteria lacking gGT can still colonize and persist. Presence of gGT during infection favoured a proinflammatory innate and adaptive immune response.
+YWHAE is a new cellular partner of CagA. CagA enhances YWHAE-mediated transactivation of NF-kappaB. [CagA]
+early upon infection VacA induces transient increase of mitochondrial translocases and a dramatic accumulation of the mitochondrial DNA replication and maintenance factors POLG and TFAM.[Vaca]
+the i-region genotype of vacA is a useful marker of both H. pylori virulence and the clinical outcomes of H. pylori infections in Okinawa, Japan (vacA)
+The predominant genotype in our population was cagA positive vacA s1, which was found to be significantly associated with patients with gastric diseases, especially PUD. VacA s1 can serve as a single best virulence marker of the disease manifestation [CagA].
+CagA perturbs multiple host signaling pathways by interacting with the host signaling molecules, resulting in cytopathic effects and subsequent cell transformation. [CagA] [review]
+Helicobacter pylori binding to alpha5beta1 integrin under shear flow is dependent on the CagY, but independent of the presence of the T4SS pili, which are only formed when H. pylori is in contact with host cells.[CagY]
+Here, we generated crystal structures of HopQ isotypes I and II bound to the N-terminal domain of human CEACAM1 (C1ND) and elucidated the structural basis of H. pylori specificity toward human CEACAM receptors. Using SAXS, we show that the HopQ ectodomain is sufficient to induce C1ND monomerization and thus providing H. pylori a route to influence CEACAM-mediated cell adherence and signaling events. [HopQ]
+Noncatalytic urease appears to play an important role in oxidant protection [Urease].
+This study presents the structure of the N-terminal DNA-binding domain of Helicobacter pylori LlaJI.R1 at 1.97-A resolution, which adopts a B3 domain fold. [LlaJI.R1 ]
+entry is flagellar motor switch protein FliN.  Authors conclude that H. pylori uses a FliY-FliN heterodimer instead of a homodimer and creates a switch complex with SpoA domains derived from three distinct proteins.
+the Helicobacter pylori protein Csd5 promotes helical shape as part of a membrane associated, multi-protein shape complex that includes interactions with the periplasmic cell wall, a PG precursor synthesis enzyme, the bacterial cytoskeleton, and ATP synthase.  [Csd5]
+These results demonstrate that HpNikR can directly respond to changes in cytosolic pH during acid acclimation and illustrate the exquisitely coordinated regulatory networks that support H. pylori infections in the harsh environment of the human stomach.
+in CAPZA1-overexpressing gastric epithelial cells infected with H. pylori, autolysosome formation is inhibited and CagA escapes autophagic degradation.[cagA]
+H. pylori stool shedding and EPIYA-D cagA alleles are associated with gastric cancer in an East Asian hospital [cagA]
+H. pylori isolated from patients in Guizhou region, China, showed a unique genotype, which was mainly East Asiatype cagA (ABD), vacA s1c/m2 genotype or iceA1postiive.
+The oipA gene was found to be associated with the development of chronic gastritis, and the "on" status of the gene was the most frequent in patients with gastric cancer who were from Western countries.  [oipA]
+These results suggest the existence of an integrin-beta1 - and CEACAM1- or CEACAM5-dependent type IV secretion system delivery pathway for Helicobacter pylori CagA, which is clearly independent of VacA.[CagA]
+We found that H. pylori-infected patients with cagA-positive had a significantly higher expression of MMP- 9 mRNA levels in comparison to H. pylori-infected patients with cagA-negative.[cagA; cytotoxin associated gene A]
+We detected the HpSpo0J-HpSoj-DNA complex by electron microscopy and show that this nucleoid-adaptor complex (NAC) is formed through HpSoj and HpSpo0J interaction and parS DNA binding. NAC formation is promoted by HpSoj participation and specific parS DNA facilitation.
+The H. pylori isolates of gastric cancer subjects had a higher rate of HtrA-L171. H. pylori isolates with presence of both HtrA-171 & CagL-Y58/E59 can synergistically increase the risk of gastric cancer.[HtrA; CagL]
+Our study in limited by the small number of patients with ulcers. Nevertheless, it represents an advance in biomedical science as it suggests that infection with cagG+ strains could be benefit biomarker for reduced risk of gastric ulceration, whereas strains carrying the orf17 might increase the risk of duodenal ulceration
+HP1454 is a crucial bacterial factor that exerts its proinflammatory activity by directly modulating the T-cell response. (HP1454)
+Overall, vacA genotype was significantly associated with clinical outcomes, as vacA subtypes: s1a1b, s1as1bm2, s2 m2 and m2, s1bm2 were significantly correlated to gastritis, whereas, subtypes s1 am1, s1 am2, m1were significantly associated with gastric and duodenal ulcers. The subtype vacA s1bm2 was associated with gastritis in 5 cases (45.5%) and with duodenal ulcer in 4 cases (36.4%). (vacA, cagA and iceA).
+VacA degradation is independent of autophagy and proteasome activity but dependent on lysosomal acidification. [VacA]
+Helicobacter pylori (Hp) heat shock protein 60 (HspB) shared a specific epitope (P1 peptide) with human heat shock protein (Hsp)60. Hp-positive patients with gastritis or coronary heart disease produce IgG autoantibodies specific to P1. Upregulation of proinflammatory cytokines by P1 contributes to the pathogenesis of Hp infection and the autoimmunity as a result of molecular mimicry.
+How many protein molecules are secreted by single Helicobacter pylori cells: Quantification of serine protease HtrA.
+Using single-particle cryo-electron microscopy this study determined the low-resolution structures of a VacA dodecamer and heptamer, as well as a 3.8-A structure of the VacA hexamer. [VacA]
+A crystal structure of flagellar capping protein FliD from Helicobacter pylori at 2.6A resolution presents a four-domain (D2-D5) structure, where the D3 domain forms a central platform surrounded by the other three domains (D2, D4, and D5). [flagellar capping protein FliD]
+Csd7 collaborates with other proteins to stabilize the cell wall-degrading enzyme Csd1. Csd7 also links Csd1 with a putative filament-forming protein via protein-protein interactions. [Csd1; Csd7]
+data provide pivotal evidence that the formation of intermolecular disulfide bonding between Cys(124) and Cys(128) plays a critical role in structural assembly of a biologically active-TlyA oligomer [TlyA]
+A polymorphism in Helicobacter pylori neutrophil-activating protein A (NapA) closely associated with dyspepsia occurrence was identified. [gene: neutrophil-activating protein A (NapA)]
+Chronic CagA-positive Helicobacter pylori infection with MNNG stimulation synergistically induces mesenchymal and cancer stem cell-like properties in gastric mucosal epithelial cells.
+One hydrogen bond was found between P03 and ArsS, which is more cohesive than other forms of bonding.
+Study report the crystal structure of DppA from H. pylori. Based on the analysis of the electron density maps, the protein was confirmed to co-purify with peptides. In deed, HpDppA binds peptides of diverse amino acid sequences with micromolar affinity. [DppA]
+Establishment of serine protease htrA mutants in Helicobacter pylori is associated with secA mutations.
+Our results have shown that specific amino acid residues along the H domain, as well as the R domain, are essential for the toxicity of the AapA1 toxin.
+The C-terminal domain of Hp0897 (Hp0897CTD) shows stronger interaction with HpDnaB over the N-terminal region of Hp0897.[Hp0897]
+The identified the chaperone activity of the HtrA protein and have proven that this activity is important and sufficient for the survival of H. pylori under multiple stress conditions.(HtrA)
+Unique constellations of five polymorphic sites of Helicobacter pylori vacA and cagA status associated with risk of gastric cancer.
+Distinct cytoskeletal proteins define zones of enhanced cell wall synthesis in Helicobacter pylori.
+The HopQ-CEACAM Interaction Controls CagA Translocation, Phosphorylation, and Phagocytosis of Helicobacter pylori in Neutrophils.
+Duodenal ulcer promoting gene (DupA), plasticity region genes and sigma factors in H. pyloristrains from Nigeria.
+Precancerous Gastric Lesions with Helicobacter pylori vacA (+)/babA2(+)/oipA (+) Genotype Increase the Risk of Gastric Cancer.
+Mutational diversity in mutY deficient Helicobacter pylori and its effect on adaptation to the gastric environment.
+The association of Helicobacter pylori CagA EPIYA motifs and vacA genotypes with homologous recombination repair markers during the gastric precancerous cascade.
+Association of Helicobacter pylori babA2 gene and gastric cancer risk: a meta-analysis.
+VacA genotypes and cagA-EPIYA-C motifs of Helicobacter pylori and gastric histopathological lesions.
+Role of the Outer Inflammatory Protein A/Cystine-Glutamate Transporter Pathway in Gastric Mucosal Injury Induced by Helicobacter pylori.
+H. pylori slyD, a novel virulence factor, is associated with Wnt pathway protein expression during gastric disease progression.
+Detection of Novel Amino Acid Polymorphisms in the East Asian CagA of Helicobacter Pylori with Full Sequencing Data.
+The RNase J-Based RNA Degradosome Is Compartmentalized in the Gastric Pathogen Helicobacter pylori.
+Toll-like Receptor 5 Activation by the CagY Repeat Domains of Helicobacter pylori.
+Rapid growth inhibitory activity of a YafQ-family endonuclease toxin of the Helicobacter pylori tfs4 integrative and conjugative element.
+CircRNA-PTPRA promoted the progression of atherosclerosis through sponging with miR-636 and upregulating the transcription factor SP1.
+Cryo-EM structure of Helicobacter pylori urease with an inhibitor in the active site at 2.0 A resolution.
+An evolutionary non-conserved motif in Helicobacter pylori arginase mediates positioning of the loop containing the catalytic residue for catalysis.
+Helicobacter Pylori Variants with ABC-Type Tyrosine Phosphorylation Motif in Gastric Biopsies of Ghanaian Patients.
+RNase R is associated in a functional complex with the RhpA DEAD-box RNA helicase in Helicobacter pylori.
+Outer Membrane Vesicle Production by Helicobacter pylori Represents an Approach for the Delivery of Virulence Factors CagA, VacA and UreA into Human Gastric Adenocarcinoma (AGS) Cells.
+Results report molecular cloning and characterization of AraA gene encoding a novel L-arabinose isomerase. The enzyme showed no substrate specificity toward D-galactose, and molecular docking results showed that the active site residues could only immobilize L-arabinose and recognized it as substrate for isomerization. [AraA]
+Hidden Conformational States and Strange Temperature Optima in Enzyme Catalysis.
+The VtlR system may represent a common genetic regulatory mechanism required for efficient host-bacterium interactions among the alpha-proteobacteria [VtlR]
+identified promoters that are CtrA targets and found CtrA binds to promoters of genes involved in cell cycle progression; also found CtrA depletion affected outer membrane composition, in particular abundance and spatial distribution of Omp25; control of B. abortus envelope composition by CtrA indicates the plasticity of the CtrA regulon along evolution [CtrA]
+NtrX crystal structure revealed that NtrX is a dimeric ATP binding protein without ATPase activity.A sequence recognized by NtrX is presented along with a negative feedback mechanism.[NtrX]
+The results bring new insights into the extent and functionality of LuxR-type, VjvR-related transcriptional networks. [VjbR]
+the Ml proteins studied form higher-order oligomers through their N-terminal region and that the same AT-rich site is recognized by MucR from Brucella abortus using a similar mechanism involving contacts with the minor groove of DNA and oligomerization.[MucR]
+Nickel-responsive transcriptional regulator (NikR) in the Brucella abortus binds directly to a specific DNA sequence within the promoter region of ATP-binding cassette transporter nikA in a metal-dependent manner to control gene expression. Deletion of nikR in B. abortus leads to alterations in the nickel-responsive expression of the genes encoding the putative nickel importer NikABCDE.
+The authors analyze the CA sequences of CO2-dependent and -independent brucellae and spontaneous mutants. The comparisons strongly suggest that CAII is not functional in CO2-dependent B. abortus and B. ovis, and that a modified CAII sequence explains the CO2-independent phenotype of spontaneous mutants. They also prove that CAI alone is not enough to support CO2-independent growth of B. abortus in rich media.[CAI,CAII]
+The Atg5, LC3-II and Bcl-2 mRNA expression is significantly increased and mRNA expression of P62 and Caspase-3 is significantly decreased in the human trophoblast cells infected with Brucella abortus mutant strain with deletion in VceA protein (2308DeltaVceA) than the wild type strain. P62 protein is scattered coloring and Cytochrome C protein is scarcely in the myometrium of 2308DeltaVceA infected mice.
+We show that EipB is secreted to the periplasm where it forms a spiral-shaped antiparallel beta protein that is a determinant of cell envelope integrity in vitro and virulence in an animal model of disease [EipB].
+Omp25-dependent engagement of SLAMF1 by Brucella abortus in dendritic cells limits acute inflammation and favours bacterial persistence in vivo.
+The ABC transporter encoded by abcEDCBA acts at a post-transcriptional level to promote the optimal expression of the B. ovis type 4 secretion system within infected host cells. [abcEDCBA]
+results demonstrate that B. ovis is able to persist and multiply in ovine macrophages, while DeltaabcBA and DeltavirB2 mutations prevent intracellular multiplication, favor phagolysosome fusion, and impair maturation of the B. ovis vacuole
+The authors analyze the CA sequences of CO2-dependent and -independent brucellae and spontaneous mutants. The comparisons strongly suggest that CAII is not functional in CO2-dependent B. abortus and B. ovis, and that a modified CAII sequence explains the CO2-independent phenotype of spontaneous mutants.[CAI,CAII]
+Brucella ovis encodes a bacterial subclass 1 ferredoxin-NADP(H) reductase (BoFPR) that, by similarity with other FPRs, is expected either to deliver electrons from NADPH to the redox-based metabolism and/or to oxidize NADPH to regulate the soxRS regulon that protects bacteria against oxidative damage. The architecture of the FAD folded conformation in BoFPR might be key in catalysis
+Disruption of pyruvate phosphate dikinase in Brucella ovis PA CO2-dependent and independent strains generates attenuation in the mouse model.
+The first glycoprotein core xylosidase that can remove core xylose directly from glycoprotein (gpcXase I) was reported. In E. meningoseptica, the gpcXase I and core fucosidase cFase I formed a functional operon for core oligosaccharide modifications. [gpcXase I]
+tolC is a critical virulence factor of F. tularensis [tolC]
+The identification of the F. tularensis surface protein FsaP is reported, which, when expressed in nonadherent Escherichia coli, confers recombinant bacteria with the ability to bind to A549 cells.
