@@ -1,0 +1,5 @@
+Mib-Jag1-Notch signalling regulates patterning and structural roles of the notochord by controlling cell-fate decisions
+mind bomb mutants have downregulation of several genes necessary for GABA-mediated signaling. Spontaneous seizures are seen in these animals.
+Data indicate a general down-regulation of Notch signaling genes necessary for proper brain development in mind bomb-mutant zebrafish embryos.
+Mib and Mib2 interact with Fih-1 that is involved in the hypoxia signaling pathway.
+forms of DeltaD that have the MID can activate Notch in trans and suppress early neurogenesis when mRNA encoding it is ectopically expressed in zebrafish embryos.

@@ -1,0 +1,5 @@
+Crossveinless 2 functions in a positive-feedback loop to locally enhance BMP activity and is required for neural crest fate determination.
+Data show that in endothelial cells, bone morphogenetic protein endothelial precursor-derived regulator (BMPER) and twisted gastrulation protein homolog 1 (TWSG1) are necessary for regular Notch signaling activity.
+ftr82 is a vascular gene that plays an important role for vascular development in zebrafish.
+CD146 protein expression has a role in vascular development in zebrafish
+In addition to the physiological angiogenesis during development, gicerin morphants efficiently blocked the tumor angiogenesis in zebrafish.

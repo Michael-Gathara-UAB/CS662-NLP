@@ -1,0 +1,5 @@
+these findings reveal an indirect role for Wdr68 in the BMP-Edn1-Jag1b signaling hierarchy and dorso-anterior expression of dlx1a/2a.
+The effect of deleting atp6v1a on embryonic acid secretion and ion balance is reported.
+The transcription factor, glial cell missing 2, is involved in differentiation and functional regulation of H+-ATPase-rich cells in zebrafish.
+is required to facilitate normal ammonia excretion in the zebrafish larva
+Rhcg1 and Rhbg mediate ammonia excretion by ionocytes and keratinocytes in the skin of zebrafish larvae.

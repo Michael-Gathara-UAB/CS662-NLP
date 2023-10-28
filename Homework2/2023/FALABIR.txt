@@ -1,0 +1,5 @@
+Microtubules and motor proteins support zebrafish neuronal migration by directing cargo.
+alteration of myofibril architecture and tendon-like structure in embryos deficient for SelN function provide new insights into the pathological mechanism of SelN-related myopathy
+sepn1 and ryr1 are required for the same cellular differentiation events and are needed for normal calcium fluxes
+The opn4.1 gene is not expressed in the brain until 3 dpf, when transcripts are located at the juncture between the caudal hindbrain and anterior spinal cord, in cells in the ventricular region.
+Opn4m2 labeling shows nuclear localization, which did not change in response to light. opn4m1, opn4m2, gr, per1b, and cry1b presented an oscillatory profile of expression in LD condition. In both DD and LD condition, dexamethasone (DEX) treatment shifted the peak expression of per1b and cry1b transcripts

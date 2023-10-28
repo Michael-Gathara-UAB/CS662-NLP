@@ -1,0 +1,5 @@
+Mosaic analysis indicates that the bronchiomotor neurons patterning and fusion defects in the mib hindbrain arise non-cell autonomously.
+The three functionally distinct modules of Mind bomb work cooperatively to regulate Notch signaling by associating with, ubiquitinating, and internalizing Delta.
+Here we further demonstrated that zebrafish Mib and Mib2, similar to their mouse orthologs, have a C-terminal-most RING finger-dependent E3 ubiquitin ligase activity. Mib and Mib2 are reciprocal E3 ubiquitin ligases and substrates.
+Zebrafish Mib and Mib2 are colocalized in transfected cells and function redundantly in regulating Notch signaling in embryos.
+The mib ( ta52b ) mutation may affect not only neurogenesis but also mesoderm development. These results provide new insights into Notch signaling pathway.

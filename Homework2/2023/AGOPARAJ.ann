@@ -1,0 +1,152 @@
+T1	PRON 684 686	we
+T2	SCONJ 692 696	that
+T3	VERB 687 691	show
+T4	PROPN 705 708	GFP
+T5	VERB 735 746	substituted
+T6	SCONJ 794 798	that
+T7	SCONJ 697 702	while
+T8	PROPN 709 714	Wdr68
+#2	AnnotatorNotes T8	an evolutionarily conserved protein with WD40-repeat domains
+#1	AnnotatorNotes T4	an evolutionarily conserved protein with WD40-repeat domains
+T9	NOUN 715 721	fusion
+T10	ADV 722 734	functionally
+#3	AnnotatorNotes T2	not sure, changed from det to sconj,bcz we are introducing idea
+T11	DET 703 704	a
+T12	ADP 747 750	for
+T13	ADJ 751 763	craniofacial
+T14	NOUN 764 775	development
+T15	NOUN 783 792	zebrafish
+T16	DET 779 782	the
+T17	ADP 776 778	in
+#4	AnnotatorNotes T13	bcz it tells the type of development
+T19	DET 799 800	a
+T20	PROPN 801 808	Nuclear
+T22	PROPN 816 822	Signal
+T21	PROPN 809 815	Export
+T23	PROPN 824 827	NES
+T24	PUNCT 823 824	(
+T25	PUNCT 827 828	)
+T26	PUNCT 792 793	,
+T27	NOUN 829 835	fusion
+T28	NOUN 836 843	protein
+T29	PROPN 845 856	GFPNESWdr68
+T30	PUNCT 844 845	(
+T31	PUNCT 856 857	)
+T32	VERB 858 864	failed
+T33	ADJ 876 888	craniofacial
+T34	NOUN 889 900	development
+T35	ADP 865 867	to
+T36	VERB 868 875	support
+T37	PROPN 0 15	myeloperoxidase
+T38	CCONJ 16 19	and
+T39	PROPN 20 24	H2O2
+T40	VERB 25 33	interact
+T41	ADV 34 42	directly
+T43	ADP 43 49	within
+T42	PROPN 50 61	neutrophils
+T44	ADP 62 64	at
+T45	DET 65 68	the
+T46	NOUN 76 81	wound
+T47	NOUN 69 75	tissue
+T48	VERB 100 110	controlled
+T49	AUX 97 99	is
+T50	ADV 111 122	differently
+T51	ADP 123 125	in
+T52	DET 126 129	the
+T53	NOUN 86 96	expression
+T54	NOUN 82 85	mpx
+T56	NOUN 139 146	lateral
+T57	NOUN 147 152	plate
+T58	ADJ 130 138	anterior
+#5	AnnotatorNotes T58	adj bcz it describes the part of lateral plate
+T55	NOUN 153 161	mesoderm
+#6	AnnotatorNotes T55	middle layer of embryo cell?
+T59	CCONJ 162 165	and
+T60	ADJ 166 175	posterior
+#7	AnnotatorNotes T60	just like anterior
+T61	NOUN 176 183	lateral
+T62	NOUN 184 189	plate
+T63	NOUN 190 198	mesoderm
+T64	NOUN 199 206	regions
+T65	CCONJ 207 210	and
+T66	VERB 211 219	describe
+T67	ADJ 220 225	novel
+T68	NOUN 226 231	roles
+#8	AnnotatorNotes T67	novel = new, referring that the roles are new and not old, so adj?
+T69	ADP 232 235	for
+T70	PROPN 236 240	etv2
+T71	SCONJ 241 244	and
+T72	PROPN 245 250	gata1
+T73	ADP 251 257	during
+T74	ADJ 258 267	primitive
+T75	NOUN 268 281	neutropoiesis
+T76	PUNCT 281 282	.
+T77	VERB 288 299	infiltrated
+T78	PROPN 305 312	Candida
+T79	PROPN 313 321	albicans
+T80	PROPN 323 329	smu681
+T82	PUNCT 345 346	-
+T84	NOUN 356 363	embryos
+T85	ADJ 346 355	deficient
+T86	CCONJ 364 367	and
+T87	ADJ 368 375	sibling
+T88	NOUN 376 383	embryos
+T89	VERB 384 390	showed
+T90	ADJ 391 398	similar
+T91	NOUN 399 407	survival
+T92	PUNCT 407 408	.
+T93	NOUN 409 422	Proliferation
+#10	AnnotatorNotes T93	 but it feels like a verb, but -tion is commonly a noun
+T95	ADP 423 425	of
+T96	AUX 438 441	was
+T97	VERB 447 452	rapid
+T98	ADJ 442 446	more
+T99	ADP 453 455	in
+T100	PROPN 456 462	smu681
+#12	AnnotatorNotes T100	? type of embryo
+T101	NOUN 463 470	embryos
+T102	ADP 476 478	in
+T103	ADJ 479 486	sibling
+T104	NOUN 487 494	embryos
+T105	PUNCT 494 495	,
+T106	PRON 505 507	it
+#13	AnnotatorNotes T106	refers to proliferation, so pronoun
+T107	AUX 508 511	was
+T108	VERB 523 533	suppressed
+T109	ADV 512 522	eventually
+T110	SCONJ 496 504	although
+#14	AnnotatorNotes T110	works similar to but which introduces a sub clause
+T111	DET 535 538	The
+T112	ADJ 539 546	initial
+T113	NOUN 547 563	characterization
+T114	ADP 564 566	of
+T115	PROPN 567 572	wdr68
+#15	AnnotatorNotes T115	refers to some specefic protein
+T116	VERB 573 581	suggests
+T117	DET 582 584	an
+T118	ADJ 585 594	important
+T119	NOUN 595 599	role
+T120	ADP 600 602	in
+T121	ADJ 603 615	craniofacial
+T122	NOUN 616 627	development
+T123	ADP 628 631	for
+T124	DET 632 635	the
+T125	ADV 636 642	highly
+T126	VERB 643 652	conserved
+T127	PROPN 653 658	Wdr68
+T128	PUNCT 658 659	-
+T129	PUNCT 708 709	-
+T18	PROPN 659 664	Dyrk1
+T130	NOUN 665 672	protein
+T131	NOUN 673 682	complexes
+T132	PUNCT 427 428	.
+T133	PROPN 426 427	C
+T134	PROPN 429 437	albicans
+T83	ADJ 330 345	myeloperoxidase
+#9	AnnotatorNotes T83	adj, describing the type(or state) of embryo
+T81	SCONJ 283 287	When
+T94	ADP 300 304	with
+T135	CCONJ 471 475	than
+T136	PUNCT 321 322	,
+T137	PUNCT 533 534	.
+T138	PUNCT 682 683	.

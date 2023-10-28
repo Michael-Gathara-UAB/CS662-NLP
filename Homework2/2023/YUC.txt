@@ -1,0 +1,5 @@
+indicate that miR-10 regulates the angiogenic behaviour in a Notch-dependent manner by directly targeting mib1
+Epb41l5 competes with Delta as a substrate for Mib1 to coordinate specification and differentiation of neurons.
+Data reported the first genome-wide analysis and transcriptome profiling of the new mib(nn2002) in Zebrafish. These results suggested that the defects in the somitogenesis were related to the down-regulated segmentation genes, such as foxc1a, smyhc1, myod1 and mylpfa.
+Data identify Danio rerio keratins 8/18 as the true orthologs of the human keratin pair 8/18.
+krt18 is maternally inherited and its tissue distribution is reported.  Its expression is established during early embryogenesis.

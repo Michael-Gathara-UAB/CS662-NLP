@@ -1,0 +1,5 @@
+Prrx1b, a Prx-related homeobox protein, participates in the regulation of vmhc expression with other transcriptional factors.
+heterozygous chihuahua fish have phenotypic similarities to human osteogenesis imperfecta; mapping and molecular characterization of the chihuahua mutation indicates that the defect resides in the gene encoding the collagen I(alpha1) chain
+ven though in adult bone, skin and scales equal amounts of a1(col1a1a) a2(col1a2) and a3(col1a2)chains are present, the presented data suggest a tissue-specific stoichiometry and/or post-translational modification status for collagen type I
+Spatio-temporal expression and distribution of collagen VI during zebrafish development.
+A novel de novo mutation in COL1A1 leading to osteogenesis imperfecta confirmed by zebrafish model.

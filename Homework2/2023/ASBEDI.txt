@@ -1,0 +1,5 @@
+Maternal miR-202-5p is required for zebrafish primordial germ cell migration by protecting small GTPase Cdc42.
+Nicalin/Nodal modulator complex antagonizes Nodal signaling during mesendodermal patterning in zebrafish
+nicalin is associated with protein complexes involved in cell fate decisions during early embryonic development--{review}
+Transplantation experiments demonstrated that med14 and brg1 are required directly in neural crest cells. Analysis of med14; brg1 double mutant embryos suggested the existence of strong genetic interaction between members of Mediator and BAF complexes.
+We show here that sdc2,sdc3 and sdc4 are expressed in the zebrafish embryonic brain during the major period of axon growth. These genes show differing expression patterns in the brain which provides putative insights into their functional specificity.

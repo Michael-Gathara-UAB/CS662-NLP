@@ -1,0 +1,5 @@
+This protein was isolated, characterized and examined for enzymatic activities using a variety of endogenous compounds as substrates.
+SULT2 ST2 and SULT2 ST3 showed distinct patterns of expression during embryonic development and throughout the larval stage onto maturity.
+Our results suggest that Unc119c is the only Unc119 paralog that is highly specific to the retina in zebrafish. Unc119c and Arl3l2 proteins are important for the function of cones.
+Cvl2 was identified as an essential pro-bone morphogenetic protein factor during zebrafish embryogenesis.
+Bmper is a conserved regulator of hematopoietic and vascular development in zebrafish.
