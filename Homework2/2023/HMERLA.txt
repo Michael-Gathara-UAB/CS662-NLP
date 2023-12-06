@@ -1,0 +1,5 @@
+Zebrafish model for spondylo-megaepiphyseal-metaphyseal dysplasia reveals post-embryonic roles of Nkx3.2 in the skeleton.
+The elongation factors Pandora/Spt6 and Foggy/Spt5 promote transcription in the zebrafish embryo. (Pandora/Spt6)
+Spt6 is essential for the transcriptional response to activation of the Notch pathway.
+despite the absence of southpaw expression in the brain, early diencephalic left-right asymmetry requires Southpaw activity
+required for organizing at least the initial phase of diencephalic left-right (LR) asymmetry; experiments suggest that heart and brain LR patterning may be coordinated by southpaw signaling [review]

@@ -1,0 +1,5 @@
+We found that the gpx4b gene shows maternal and zygotic gene expression in the embryo proper compared to gpx4a that showed zygotic gene expression in the periderm covering the yolk cell only.
+maternal loss of zebrafish gpx4b promotes embryonic dorsal organizer formation.
+These results reveal divergent requirements for Gli1 and Gli2 in mouse and zebrafish and indicate that zebrafish Gli1 is an activator of Hh-regulated genes, while zebrafish Gli2 has minor roles as a repressor or activator of Hh targets.
+Gli1 regulates the maintenance of neural progenitors at the midbrain-hindbrain boundary in concert with E(Spl) factor activity.
+Gli1 has a Hh-independent role in many motoneurons and V3 domain cells in embryos that lack Hh signalling, but removal of Gli1 activity does not affect more dorsal neurons.

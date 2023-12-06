@@ -1,0 +1,5 @@
+Sulf1 triggers Shh signaling activity to establish and, later on, modify the spatial arrangement of gene expression in ventral neural progenitors
+Sulfatases, in Particular Sulf1, Are Important for the Integrity of the Glomerular Filtration Barrier in Zebrafish.
+correlation between the expression of t-bet, stat6 and foxp3 with other genes involved in Th and T(reg) responses
+this study shows that STAT6 negatively regulates IFNphi1 production by attenuating the kinase activity of TANK-binding kinase 1
+These results reveal a crosstalk between neurons and immune cells mediated by IL4/STAT6 signaling, which induces neural stem/progenitor cell plasticity in zebrafish brains.

@@ -1,0 +1,5 @@
+Isotocin stimulates the proliferation of epidermal stem cells and differentiation of ionocyte progenitors by regulating the P63 and Foxi3a transcription factors, consequently enhancing the functional activities of ionocytes.
+Genetic loss of roundabout homolog 2 protein (robo2)displayed decreased synaptic oxytocin (OXT) content and robo2 mutants displayed reduced mobility of the actin probe Lifeact-EGFP in OXT synapses.
+These results showed that TRPV4 modulates ion balance through the isotocin pathway.
+Results describe the ontogeny of vasotocin-expressing cells in zebrafish, and the selective requirement for the transcriptional regulators orthopedia and single-minded 1 in the preoptic area.
+We found that the gpx4b gene shows maternal and zygotic gene expression in the embryo proper compared to gpx4a that showed zygotic gene expression in the periderm covering the yolk cell only.

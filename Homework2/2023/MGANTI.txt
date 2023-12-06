@@ -1,0 +1,5 @@
+A specific role for SynJ1 in autophagosomal and endosomal trafficking is described and evidence that PI(4,5)P2 participates in autophagy in cone photoreceptors is provided.
+Zebrafish possess two genes, sept9a and sept9b that, like humans, express multiple transcripts.
+Zebrafish sulf1 and sulf2a are broadly expressed in the central nervous system (CNS) and non-neuronal tissue including heart, somite boundaries, olfactory system, and otic vesicle.
+Data indicate that sulf1 plays a crucial role in modulating both BMP and FGF signaling.
+lack of SULF1 expression downregulates VEGFA-mediated arterial marker expression, confirming that Sulf1 mediates arterial specification by regulating VegfA165 activity.

@@ -1,0 +1,5 @@
+Data indicate that dimerization is required for the dominant neurotoxicity of disease-associated GARS mutations and provide a rapid, tractable model for studying newly identified GARS variants for a role in human disease.
+Synj1 is required for anchoring of ribbons, for vesicle maintenance, and for synaptic transmission at cone photoreceptor ribbon synapses.
+Synj1 is critical for retrieval of membrane in order to maintain the quantity, timing of fusion, and spontaneous release properties of synaptic vesicles at hair-cell ribbon synapses.
+This protein localized predominantly to cone photoreceptors. Using blastula stage transplantation experiments, study demonstrates that rods from mutants lacking SynJ1 develop normally and do not have the pronounced morphological defects detected in cones
+Synaptojanin 1 is required for endolysosomal trafficking of synaptic proteins in cone photoreceptor inner segments.

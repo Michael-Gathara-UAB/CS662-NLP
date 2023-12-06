@@ -1,0 +1,5 @@
+Antagonistic interactions between Charon and Southpaw play an important role in L/R patterning in zebrafish
+In zebrafish, it appears that pkd2 is not responsible for the activation of spaw transcription, but is required for a mechanism to restrict spaw expression to the left half of the embryo.
+investigate whether loss of Brachyury/Notail or Tbx16/Spadetail disrupts the balance of Nodal ligands (Southpaw) and antagonists (Charon) around Kupffers Vesicle
+In a unique mutant defective for the Nodal-related southpaw gene, preferential dextral looping in the heart is maintained, whereas gut and brain asymmetries are randomized.
+Zebrafish Klf8 regulates left-right asymmetric patterning by modulating both Kupffer's vesicle morphogenesis and spaw expression in the left lateral plate mesoderm (LPM).

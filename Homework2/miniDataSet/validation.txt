@@ -1,0 +1,200 @@
+Hip cooperates with HP1 in chromatin remodeling and gene silencing
+Data show that Drosophila STAT (STAT92E) is involved in controlling heterochromatin protein 1 (HP1) distribution and heterochromatin stability.
+it is proposed that interaction of SUUR with HP1 is crucial for the association of SUUR with chromatin
+protein localises primarily to the heterochromatin at the chromocentre on salivary gland polytene chromosomes.
+HP1 is distributed within distinct chromatin domains at Drosophila telomeres
+These results suggest a function of HP1a in transcription facilitating H3K36 demethylation at transcribed and/or heterochromatin regions.
+HP1 interacts with Umbrea with functional role in mediating normal telomere behaviour in Drosophila
+HP1 takes part in multiple mechanisms of silencing and spreading
+HP1a positively regulates euchromatic gene expression through interaction with hnRNPs.
+Mutation of AGO2 or piwi increases silencing at piRNA clusters corresponding to an increase of HP1 association.
+observation of opposing functions of HP1 suggests a model where HP1-mediated repeat inactivation or replication complex loading on the chromosome arms is required for proper activation of origins of replication
+Data show that animals with reduced heterochromatin, such as Stat92E transheterozygotes, Su(var)205 heterozygotes, or Su(var)3-9 transheterozygotes, were less viable than wild-type controls.
+HP1c functions to recruit the FACT complex to RNA polymerase II
+TP5 represses the excision of other P elements in the germ line through a combination of maternal and zygotic effects. The maternal component of this repression is impaired by heterozygous mutations in the Suppressor of variegation 205 genes.
+Enrichment of the Drosophila Smc5/6 complex in heterochromatin requires HP1a
+studies underscore the importance of chromo shadow domain dimerization and cooperation with the C-terminal extension in forming distinct complexes of HP1a
+Hsromega-n transcripts are essential for thermotolerance and remobilization of hnRNPs, HP1 and RNA polymerase II during recovery from heat shock.
+eyg has a dose-dependent effect on heterochromatin gene silencing and identifies a genetic interaction with HP1a in this process.
+Study shows that Fru forms a complex with the transcriptional cofactor Bonus (Bon), which, in turn, recruits either of two chromatin regulators, Histone deacetylase 1 (HDAC1), which masculinizes individual sexually dimorphic neurons, or Heterochromatin protein 1a (HP1a), which demasculinizes them.
+binding to HP1a is required for dKDM4A-mediated H3K36me3 demethylation at a subset of heterochromatic genes. Collectively, these results show that HP1a functions to target the H3K36 demethylase dKDM4A to heterochromatic genes in Drosophila
+The HP1a-enriched, POF-associated chromatin structure over the gene bodies may represent one type of adaptation for genes embedded in repetitive DNA.
+Our results support a hypothesis in which HP1a nucleates with high affinity independently of H3K9me in promoters of active genes and then spreads via H3K9 methylation and transient looping contacts with those H3K9me target sites
+HP1a has opposite functions in different genomic regions, repressing expression on chromosome 4 and stimulating expression in pericentromeric regions.
+The Drosophila melanogaster CHD1 chromatin remodeling factor modulates global chromosome structure and counteracts HP1a and H3K9me2.
+Data indicate significant similarity and uniqueness in the genes regulated by three HP1 homologs HP1a, HP1b, and HP1c.
+studies indicate that the binding surface of the HP1a CSD plus its short CTE provide the needed discrimination among HP1a's partners, and that the CTE is important for differentiating the interactions of the Drosophila HP1 paralogs
+Results show that HP1 interacts with Med26.
+found that HP1a selectively associated with a broad set of RNAs transcribed from repetitive regions
+Recruitment of either HP1GAL4DBD or SUURGAL4DBD resulted in delayed completion of replication
+we show that Heterochromatin Protein 1a is required for the production of piRNAs coming from telomeric transposable elements. Furthermore, as in adult ovaries, incomplete, bimodal, and stochastic repression resembling variegation can occur at all developmental stages
+Knockdown of both HP1a and Mcm10 genes inhibited the progression of S phase in eye imaginal discs. Proximity Ligation Assay (PLA) demonstrated that HP1a is in close proximity to DNA replication proteins including Mcm10, RFC140 and DNA polymerase epsilon 255 kDa subunit in S-phase.
+HP1a maternal transcripts regulate early Drosophila embryogenesis.
+Ova acts to link the histone h3 lysine 4 demethylase dLsd1 to HP1a for local histone modifications.
+HP1 associates differently with RNA polymerase II; HP1a and HP1b, but not HP1c, inhibit transcriptional activity, suggesting that HP1c serves as a positive regulator in transcription.
+NBS1 interacts with HP1 to ensure genome integrity.
+HP1 drives de novo 3D genome reorganization in early Drosophila embryos.
+The VEGF receptor homolog is expressed in hemocytes, and three VEGF homologs are expressed along hemocyte migration routes.
+results suggest that polarized PVR activation is necessary for the proper organization of the wing disc epithelium, by regulating the apical assembly of the actin cytoskeleton.
+In Pvr mutants, a large fraction of the embryonic hemocyte population undergoes apoptosis, and the remaining blood cells cannibalistically phagocytose their dying peers.
+Pvr plays a critical role via JNK activation in thorax closure during metamorphosis.
+PVF1/PVR signaling functions not only in apoptotic phenomena but are also required during rotation and dorsal closure of the Drosophila male genital disc
+excess of JNK signaling is deleterious for migration in the absence of PVR activity at least in part through Fos transcriptional activity and possibly through antagonistic effects on DIAP1.
+Pvr signaling is regulated by dynamin-mediated endocytosis that can be dominantly interfered with by Awd.
+identified the Pvr receptor tyrosine kinase as a potent inhibitor of JNK activation
+Data show that expression of a dominant negative form of rab11 induces a loss of the polarization of RTK activity, which correlates with a severe migration phenotype.
+Guidance receptor Pvr (PDGF/VEGF receptor) mediates the asymmetric localization of cofilin in the cluster but does not affect its phosphorylation.
+Autocrine platelet-derived growth factor-vascular endothelial growth factor receptor-related (Pvr) pathway activity controls intestinal stem cell proliferation in the adult Drosophila midgut.
+Data indicate that TORC1 activation by PVR involves Tsc1/Tsc2.
+not sufficient predictor of small for gestational age newborn in pregnancies complicated by gestational hypertension/preeclampsia
+The products of bip1 and Nucleoporin 98 along with the Bip1-interacting protein RpS8 (Ribosomal protein S8) are required for the proper expression of Pvr.
+The receptor tyrosine kinase Pvr promotes tissue closure by coordinating corpse removal and epidermal zippering.
+the regulation of NMII takes place downstream of guidance receptor signalling and is critical to ensure efficient collective migration.
+Removal of PVR, although it does not prevent ecdysone-induced fat-body remodeling, causes ecdysone signaling to be up-regulated
+Data indicate that the TEAD family transcription factor Scalloped (Scalloped) regulates PDGF/VEGFR receptor (Pvr) expression.
+the PDGFR ortholog Pvr and its ligands mediate paracrine signaling between cortex glia and central brain neuroblasts and their progeny to promote and sustain post-embryonic neurogenesis.
+Btk29A tyrosine kinase has a role in phosphorylation and enzymatic activity of phosphoglucomutase in drosophila
+In the absence of its PH domain, Tec29 constitutively localizes to ring canals, but still requires Src64 for full activation
+Tec29 regulates both the actin cytoskeleton and the cell cycle to facilitate the morphogenesis of the embryonic salivary glands.
+role of Btk29A type 2 on a transcriptomic level in larval CNS and adult heads
+this study identifies a transcriptional switch involving the kinase Btk29A/Btk and its phosphorylation target, beta-catenin, which functions downstream of Wnt4 in escort cells to terminate Drosophila germ cell proliferation through up-regulation of piwi expression.
+Btk29A is required non cell-autonomously for the invagination of the spiracular chamber in Drosophila
+dissociation of tyrosine-phosphorylated Arm from DE-cadherin allows dynamic actin to reorganize, leading to ring canal expansion and cell shape changes during the course of oogenesis
+Btk29A(ficP) mutant males null for the Btk29A type 2 isoform, a fly homolog of the nonreceptor tyrosine kinase Btk, show no courtship suppression, while Btk29A hypomorphic males exhibit a complete loss in courtship suppression within 30 min.
+Btk29A is required for the establishment of egg chamber polarity presumably through the regulation of subcellular localization of its downstream proteins, including Cno.
+Study shows that Btk29A and WASH are required for luminal clearance and that Btk29A induces WASH phosphorylation propose that the WASH phosphorylation status balances F-actin assembly between the endosomal and cortical F-actin networks to regulate the timing of luminal clearance and airway shape.
+Although Drosophila Btk is highly expressed in the fly central nervous system, there is limited information regarding its functional role(s) therein; this study demonstrates acute differential roles for this kinase within distinct mushroom body neuronal populations in the regulation of habituation dynamics to repeated footshock stimuli.
+A cDNA from Drosophila ALG5, also known as wollknauel (wol), is able to partially complement the hypoglycosylation phenotype of alg5 mutant S. cerevisiae, whereas the two wol mutant alleles failed to complement.
+Mutations in the Drosophila alg5 gene that codes for an enzyme initiating the glucosylation of the dolichol-linked oligosaccharide decrease, glucosylation and the amounts of N-glycosylated proteins such as the cuticle-organizing factor Knickkopf.
+Data indicate that MagT1 (dMagT1; CG7830; NP_609204.2; NM_135360.3) is a magnesium selective transporter.
+These findings may suggest that MagT1 is a major magnesium transporter/channel profoundly involved in fly development by affecting developmental signaling pathways, such as Wingless and Decapentaplegic signaling.
+molecular cloning of the mitoshell gene (CG7795); it encodes a novel protein with a bromodomain-related region; speculate that Mitoshell may participate in transcriptional regulation of spermatogenesis-specific genes
+Strat is required to localize Rab8 at the TGN, and rab8 phenocopies strat We propose that Strat and Rab8 act at the exit of the Golgi apparatus to regulate the sorting and the polarized distribution of Notch, Delta and Spdo.
+The Clathrin adaptor AP-1 and Stratum act in parallel pathways to control Notch activation in Drosophila sensory organ precursors cells.
+S13 subunit may possess multiple functions, including a deubiquitinylating activity and distinct activities essential for cell cycle progression that require the conserved C120 residue
+RpS13 controls the homeostasis of germline stem cell niche through Rho1-mediated signals in the Drosophila testis.
+identify Wdr82 as a component of this process and show that it works with Su(s) to inhibit Pol II elongation through Hsp70-alphabeta elements
+Drosophila melanogaster mitochondrial tRNA (Ala) contains a G:U base pair that has been translocated to the adjacent 2:71 position.This G2:U71 is the major determinant for identity of Dm mt tRNA(Ala).
+Tissue specific requirement of Drosophila Rcd4 for centriole duplication and ciliogenesis.
+loss of dDad1 function activates JNK signaling and blocking the JNK pathway in dDad1 knock-down tissues suppresses cell apoptosis and partially restores organ size.
+the isolation of a loss-of-function mutation of the Drosophila melanogaster Acp29AB gene, which encodes a seminal fluid protein that is transferred from males to females during mating.
+Functions in the downstream portion of the frizzled pathway.
+the Planar Polarity Effector proteins inturned, fuzzy, and fritz interact physically and can modulate the accumulation of each other in wing cells.
+Planar Cell Polarity Effector Proteins Inturned and Fuzzy Form a Rab23 GEF Complex.
+Data show that downregulation of YAN involves CRM1-mediated nuclear export, and that MAE is involved in MAPK phosphorylationof YAN.
+A major function of DNup88 is to anchor DNup214 and CRM1 on the nuclear envelope and thereby attenuate NES-mediated nuclear export.
+Phosphorylation of Yan favors Crm1 in this competition and counteracts inhibition of nuclear export by Mae
+two functional nuclear export signals are in the Sima basic helix-loop-helix (bHLH) domain and promote CRM1-dependent nuclear export
+Nuclear localization of the ecdysteroid receptor (EcR) is increased in HeLa cells if exportin-1 (CRM1) is knocked down by siRNA against exportin.
+Exportin-1 is a nuclear export receptor for expanded polyQ containing proteins.
+HPO promotes the translocation of SD to the cytoplasm in a CRM1-dependent manner
+Nuclear export of TIS11 proteins is mediated by CRM1 through diverging nuclear export signals, while their nuclear import mechanism may rely on a highly conserved signal whose activity is negatively regulated by ZnF2 folding.
+two newly identified factors that restrict diverse viruses, dXPO1 and dRUVBL1 contributed to antiviral defense at the organismal level in adult flies
+Nucleoporin 154 and Exportin1 (XPO1) prevented FUS-induced neurotoxicity. Moreover, we show that XPO1 interacted with FUS. Silencing XPO1 significantly reduced the propensity of FUS to form inclusions upon stress.
+Akap200 is required for protein kinase A regulatory subunit localization and morphology of actin structures during oogenesis in Drosophila
+Overexpression of Akap200 resulted in fusion of antennal glomeruli, while its loss resulted in misshapen and ectopic glomeruli.
+Overexpression of Akap200 not only suppresses the phenotype caused by Dv-cbl expression, but also the severe disruption to eye development caused by the combined expression of Dv-cbl and activated Ras
+AKAP200 is a novel tissue specific posttranslational regulator of Notch, maintaining high Notch protein levels and thus promoting Notch signaling.
+ethanol causes a structural remodeling of the actin cytoskeleton and perineurial membrane topology in an Akap200-dependent manner, without disrupting classical barrier functions.
+pipe repression depends on the TGFalpha-like ligand Gurken, which activates the Drosophila EGF receptor in dorsal follicle cells.
+mutation in the Drosophila Chk2 homolog (DmChk2/Mnk) suppresses the defects in the translation of gurken mRNA and also the defects in oocyte nuclear morphology
+Bruno binds specifically to the gurken 3'UTR and that the dorso-ventral defects caused by Bruno over-expression are due to a reduction of Gurken levels in the oocyte, Bruno plays similar roles in translational regulation of gurken and oskar.
+The two steps of gurken RNA transport occur on distinct arrays of microtubules. Such microtubule networks could provide a mechanism for one motor to transport different cargos to distinct subcellular destinations.
+Data show that Squid (Sqd) interacts with Hrb27C, and that Ovarian tumor (Otu) cooperates with Hrb27C and Sqd in the oocyte to mediate proper gurken (grk) localization.
+localization of gurken mRNA coupled to efficient sorting of Gurken out of the endoplasmic reticulum
+Star interaction with arrest results in excess Gurken protein, supporting the model that gurken is a target of repression.
+Production of gurken in the nurse cells is sufficient for axis determination in the Drosophila oocyte.
+Data show that Cornichon (Cni), but not Cni-related, binds to the extracellular domain of Gurken (Grk), and propose that Cni acts as a cargo receptor recruiting Grk into COPII vesicles.
+study shows that the repression of bves expression in anterior-dorsal follicle cells is regulated by the Grk/EGFR signalling pathway.
+the cytoplasmic Dynein-light-chain (DDLC1) which is the cargo-binding subunit of the Dynein motor protein, directly bound with high specificity and affinity to a 230-nucleotide region within the 3'UTR of gurken
+Disrupting Dynein function disperses gurken mRNA homogeneously throughout the cytoplasm, whereas the loss of Squid function converts the sponge bodies into active transport particles.
+Results show that Gurken travels towards the lateral/posterior of the egg chamber in the absence of Cbl, suggesting that Cbl actively regulates Gurken distribution through promoting endocytosis and subsequent degradation.
+a mitotic cell cycle checkpoint may impinge on grk expression, much as meiotic checkpoints can alter expression of this gene
+Glorund is part of a complex containing the hnRNP protein Hrp48 and the splicing factor Half-pint and plays a role in gurken and oskar regulation.
+Data suggest that that Squid interacts with gurken mRNA in the nurse cell nuclei and, together with other factors, maintains gurken in a translationally silent state during its transport to the dorsal anterior region of the oocyte.
+Glycosphingolipids are necessary for full activation of the EGFR pathway during oogenesis in a time-dependent manner.
+Bicaudal C and trailer hitch interact genetically. Mutants of these two genes have shared defects in localization of gurken and other anteriorly-localized mRNAs, as well as altered microtubule organization which may underlie the mRNA localization defects.
+Germline clones of mutant Sec61beta show normal translocation of Gurken into the ER and transport to the Golgi complex, but further traffic to the plasma membrane is impeded. The defect in plasma membrane traffic is specific for Gurken.
+Data indicate that trapping at the anterodorsal corner requires at least one as-yet-unidentified gurken RLE.
+A new pathway is identified that mediates cell-type and branch-specific synaptic repulsion, a novel role for EGFR signaling in synaptic target selection, and an unexpected role for Gurken as a muscle-secreted repulsive ligand.
+grk, a host gene encoding a crucial axis determinant, is a key component of an mRNP complex that regulates Wolbachia proliferation in Drosophila oogenesis.
+Reduced TOR activity promotes grk translation independent of the canonical Vasa RNA helicase and cap-dependent mechanism.
+The Syx1A dependent trafficking of Grk protein is required for efficient EGFR signaling during dorsal-ventral patterning.
+reducing the function of eIF1A in spnB ovaries suppresses the ventralized eggshell phenotype by restoring Grk expression
+Localized cytoplasmic polyadenylation of grk mRNA by Wisp and Orb is necessary to achieve appropriate Grk protein accumulation in the D/A corner of the oocyte during mid to late oogenesis.
+The translational regulation of gurken protein in nurse cells, where the transcript is synthesized, occurs by a different mechanism from that of oskar protein and bicoid protein mRNA in the oocyte.
+sites phosphorylated by CK2 overlap with active Orb and with Gurken protein expression.
+The study suggests that both the localization and the translation of gurken mRNA in the vitellarium is independent from Vasa.
+U26 is involved in the lysine degradation pathway
+role in signaling interactions that regulate growth and patterning of the proximal wing; Dachs is a candidate downstream effector of a Fat signaling pathway
+Dachs is a crucial downstream component of a Fat signaling pathway that influences growth, affinity and gene expression during development.
+Boundaries of Ft and Ds expression result in subcellular asymmetries in protein distribution that are transmitted to neighboring cells, and asymmetric Ds localization results in a corresponding asymmetric distribution of the myosin Dachs.
+the Midgut Junction DH31 expressing cells are necessary and sufficient for motility and that the peptide hormone DH31 is required for peristalsis in the junction region of the midgut.
+Body temperature rhythm (BTR) is fundamental for the maintenance of functions essential for homeostasis, such as generating metabolic energy and sleep. One major unsolved question is how body temperature decreases dramatically during the night. Previously, we demonstrated that a BTR-like mechanism, referred to as temperature preference rhythm (TPR), exists in Drosophila Here, we demonstrate that the diuretic hormone 31 (D
+Midgut-preferential RNA knockdown of the peptide hormones AstA or Dh31 respectively results in decreased or increased adult lifespan. This effect on longevity is apparently correlated with the midgut senescence phenotypes as a result of direct hormone action through both hormone receptors expressed in the enteroblasts or other midgut cell types
+Va-A1 neurons terminally differentiate into DH31/AstA-expressing neurons (neuropeptidergic fate I) by virtue of Ubx activity, and Va-A2-A4 neurons terminally differentiate into Capa-expressing neurons
+Both ROS and TRPA1 are required in a subset of anterior enteroendocrine cells for the release of the DH31 neuropeptide which activates its receptor in the neighboring visceral muscles. The resulting contractions of the visceral muscles favors quick expulsion of opportunistic bacteria, limiting their presence in the gut.
+The authors identify a novel role for DH31 in regulating the circadian rhythms of locomotor activity.
+identified two candidate Drosophila aspartic proteases that are homologous to human BACE1, DASP1 and DASP2, and demonstrated that when these proteases were cotransfected with Drosophila HS6ST, they induced the secretion of the transferase [DASP2]
+Data suggest that inhibition of gamma-secretase and disruption of the Notch developmental pathway potentially contribute to mercury-induced toxicity in the nervous system.
+may have a role in specification of heart progenitors in Drosophila embryos
+Loss of Angiotensin-converting enzyme-related (ACER) peptidase disrupts night-time sleep in adult Drosophila melanogaster.
+Loss of Acer disrupts the normal response of sleep to changes in nutrition. Other nutrient-sensitive phenotypes, including survival and glycogen storage, were also altered in the Acer mutant but lipid storage was not.
+By co-expressing shibire(ts) and semaphorin 1a, data show that semaphorin 1a was one of the proteins being regulated by endocytosis and its removal was a necessary part of the program for synaptogenesis.
+Nervy couples cAMP-PKA signaling to Plexin A to regulate Semaphorin 1a-mediated axonal repulsion
+The function of Sema1a in R-cell axon guidance absolutely requires its cytoplasmic domain and functions as a receptor in regulating R-cell axon guidance in the Drosophila visual system.
+Thus, graded expression of Sema-1a contributes to connection specificity from ORNs to PNs and then to higher brain centers, ensuring proper representation of olfactory information in the brain.
+Sema1a and netrin A can specifically promote growth through induction of key cellular growth regulators.
+This study demonistrated that the transmembrane guidance cue Sema-1a regulates axon-axon interactions, providing insight into links between guidance cue recognition and subsequent intracellular signaling events.
+A novel mechanism underlying upregulation of axon-axon attraction by Semaphorin-1a (Sema1a) reverse signaling in the developing Drosophila visual system, is reported.
+The authors show that PlexA/Sema1a mediates motoneuron axon branching in ways that differ in the proximal femur and distal tibia, based on motoneuronal birth order.
+Sema1a and Dscam1 might play essential roles in the Drosophila DA1 ventral olfactory projection neurons morphogenesis.
+Sema-1a reverse signaling can elicit distinct axonal responses depending on differential engagement of distinct ligands and signaling effectors.
+these results demonstrate that Sema-1a repulsion keeps dendrites of different types of PNs away from each other, enabling the same types of PN dendrites to be sorted into destined AL glomeruli and permitting for functional assembly of olfactory circuitry.
+The transmembrane proteins semaphorin-1a (Sema-1a) and plexin A function together to regulate ellipsoid body laminated ring (R) neuron axon lamination.
+The PDZ domain binding motif found in the most C-terminal region of the Sema-1a ICD is necessary for interaction with Vari, but not Cher, indicative of distinct binding modalities. Pbl/Sema-1a-mediated repulsive guidance is potentiated by both vari and cher Genetic analyses further suggest that scaffolding functions of Vari and Cher play an important role in Pbl-mediated Sema-1a reverse signaling.
+named the CG9520 gene Drosophila core 1 beta1,3-galactosyltransferase 1 because it is responsible for the synthesis and function of T antigen in vivo.
+Lectin staining and blotting experiments confirmed that core 1 galactosyltransferase contributes to the synthesis of Gal-beta1,3-GalNAc in vivo
+T3lec, but not T2lec and T4lec, had a clear activating effect on Drosophila melanogaster core 1 galactosyltransferase enzyme activity
+Alien seems to modulate nucleosome assembly activity. This suggests that Alien is acting on chromatin not only through recruitment of histone-modifying activities, but also through enhancing nucleosome assembly.
+Drcd-1r is a novel gene with testis-specific function, and originated through retroposition of the parental gene Drcd-1.
+Tai expression transforms sessile pupal wing cells into an invasive mass that penetrates the adjacent thorax during a period of high 20-hydroxyecdysone.
+Australin is required for sister chromatid cohesion, recruitment of the CPC to kinetochores, and chromosome alignment and segregation but not for meiotic histone phosphorylation or spindle formation.
+Borr interacts and colocalizes with the ESCRT-III component Shrb in Drosophila cells.
+Data suggest that Cks30A interacts with Cdk1, and may regulate Cyclin A levels through the activity of a female germline-specific anaphase-promoting complex, CDC20-Cortex.
+Cks30A interacts with Cdk1 to target cyclin A for destruction in the female germline, possibly through the activation of a novel germline specific CDC20 protein, Cortex
+Terminal glial differentiation involves regulated expression of the excitatory amino acid transporters in the Drosophila embryonic CNS.
+dEAAT1 is present at the adult, but surprisingly not at embryonic and larval NMJ, suggesting a physiological maturation of the junction during metamorphosis
+Eaat1 expression is promoted by Fringe-mediated neuron-glial communication during development and suggest that Eaat1 plays an essential role in regulating central nervous system neural circuits that control locomotion in Drosophila
+A Drosophila tripartite synapse model which exhibits morphological and functional properties similar to those of mammalian synapses.
+Aldh null larvae and adults are poisoned by ethanol concentrations easily tolerated by wild-types; their ethanol sensitivity is comparable to that of Adh nulls suggesting that Aldh and Adh may be equally important in the evolution of ethanol resistance.
+An amino acid replacement polymorphism in Aldh that shows hallmarks of contributing to clinally varying traits in D. melanogaster was studied.
+Drosophila lacking a homologue of mammalian ALDH2 have multiple fitness defects.
+MCO1 oxidizes ferrous iron in the hemolymph and that the resulting ferric iron is bound by transferrin or melanotransferrin, leading to iron storage, iron withholding from pathogens, regulation of oxidative stress, and/or epithelial maturation.
+Suppresses negative complementation between viable Abruptex mutations of the Notch gene.
+results suggest that Numb regulates cell fate by polarizing the distribution of the endocytic protein -Adaptin.
+These results show that binary cell death decision can be regulated by the unequal segregation of Numb at mitosis. Our study also indicates that regulation of programmed cell death modulates the final pattern of sensory organs in a segment-specific manner
+Results suggest a model in which Numb inhibits Notch signaling through the regulation of Sanpodo membrane localization.
+role in the development of Drosophila and vertebrate nervous systems
+Numb and alpha-Adaptin regulate Sanpodo endocytosis to specify cell fate in Drosophila external sensory organs.
+Asymmetric segregation of Numb into one of the two daughter cells is absolutely essential for cell-fate specification in the Drosophila peripheral nervous system.
+Numb and Pon rapidly exchange between a cytoplasmic pool and the cell cortex and that preferential recruitment from the cytoplasm is responsible for their asymmetric distribution during mitosis.
+precise temporal and quantitative regulation of Numb and Notch activity is not only required during fate decisions but also later during glial differentiation and migration
+Study concludes that Aurora-A and Numb are novel inhibitors of neuroblast self-renewal and that spindle orientation regulates neuroblast self-renewal.
+Polo directly phosphorylates Partner of Numb (Pon), an adaptor protein for Numb, and this phosphorylation event is important for Pon to localize Numb
+Data show that the tumor suppressors Brat and Numb regulate transit-amplifying neuroblast lineages in Drosophila.
+Study shows that a phosphorylation cascade triggered by the activation of Aurora-A is responsible for the asymmetric localization of Numb in mitosis.
+the restricted ability of Numb to inhibit Notch signaling during asymmetric divisions
+Numb is needed in the lateral but not antennal lobe projection neurons or ventral projection neurons lineages to prevent the appearance of ectopic neuroblasts and to ensure proper self-renewal of neural progenitors.
+The need for Numb to direct Notch signaling correlated with a decrease in neuroblasts cell cycle time and may be a means for coping with multiple sibling pairs simultaneously undergoing fate decisions.
+Sanpodo contains an evolutionarily conserved motif that has been linked to Numb-dependent regulation in vertebrates; Numb regulates Notch signaling independently of Sanpodo membrane trafficking in neural progenitor cells
+results tie Numb and Notch-signaling through a single player, Neur, thus giving us a more complete picture of the events surrounding asymmetric division of precursor cells
+During sensory bristle development, precursor cells segregate Numb asymmetrically to one of their progeny cells, rendering it unresponsive to reciprocal Notch signaling between the two daughters.
+results reveal a novel mechanism by which Numb activity is tightly controlled, and highlight the novel role of Dronc in neural stem cell homeostasis
+The Drosophila Hem/Kette/Nap1 protein regulates asymmetric division of neural precursor cells by regulating localization of Inscuteable and Numb.
+Data suggest that unequal segregation of Numb results in increased endocytosis in one daughter cell, hence asymmetry of Notch at the cytokinetic furrow, directional signalling and binary fate choice.
+precise regulation of cortical aPKC kinase activity distinguishes the sibling cell identity in part by ensuring asymmetric partitioning of Numb into the future progenitor cell where Numb maintains restricted potential independently of regulation by aPKC.
+Interaction of Notch signaling modulator Numb with alpha-Adaptin regulates endocytosis of Notch pathway components and cell fate determination of neural stem cells.
+Numb localizes at endosomes and controls the endosomal sorting of notch after asymmetric division in Drosophila.
+Numb inhibits the recycling of Sanpodo in Drosophila sensory organ precursor.
+Data show regulation of centrosome movements by numb and the collapsin response mediator protein during Drosophila sensory progenitor asymmetric division.

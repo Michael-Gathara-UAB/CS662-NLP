@@ -1,0 +1,5 @@
+Abnormal development of zebrafish after knockout and knockdown of ribosomal protein L10a.
+These results suggest that Ptenb by antagonizing PI3 kinase and its downstream Akt1 and Cdc42 to regulate actin polymerization that is critical for proper cell motility and migration control during gastrulation in zebrafish.
+Cdc42 GTPase and Rac1 GTPase act downstream of p120 catenin and require GTP exchange during gastrulation of zebrafish mesoderm.
+Cdc42 deficiency causes ciliary abnormalities and cystic kidneys.
+Knockdown of fat1 in zebrafish causes pronephric cysts, which is partially rescued by RAC1/CDC42 activators, confirming a role of the two small GTPases in the pathogenesis.

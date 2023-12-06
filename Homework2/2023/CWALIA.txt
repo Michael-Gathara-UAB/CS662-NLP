@@ -1,0 +1,5 @@
+CD146 regulates convergent extension movement during gastrulation
+In the context of adult zebrafish spinal cord injury, we proved that Melanoma cell adhesion molecule (MCAM) is beneficial to the recovery, possibly via mechanisms of angiogenensis and inflammation
+MCAM coordination of apical-basal polarity and planar cell polarity provides insight into the general mechanisms of morphogenesis.
+Transcriptome analysis revealed that SepH deficiency induces an inflammatory response and activates the p53 pathway. Consequently, loss of seph renders larvae susceptible to oxidative stress and DNA damage. Finally, we demonstrate that seph interacts with p53 deficiency in adulthood to accelerate gastrointestinal tumor development
+Mib encodes a RING ubiquitin ligase that promotes ubiquitylation and internalization of Delta.

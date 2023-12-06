@@ -1,0 +1,200 @@
+FTR67, a member of the fish-specific finTRIM family, triggers IFN pathway and against spring viremia of carp virus.
+Within the endoderm induction pathway, mis is not required for the activation of early zygotic genes, but is essential to implement nodal activity downstream of casanova/sox 32 but upstream of sox17 expression
+Dioxin-responsive cDNAs encoding putative calcium-binding proteins have been isolated from zebrafish and trout. These sequences are 88% similar to each other at the amino acid level and are orthologs of the human S100A4 calcium-binding protein.
+ictacalcin is expressed in skin during zebrafish embryogenesis
+p53 synthesis is affected in zebrafish tumors with ribosomal protein gene mutations
+Abnormal development of zebrafish after knockout and knockdown of ribosomal protein L10a.
+These results suggest that Ptenb by antagonizing PI3 kinase and its downstream Akt1 and Cdc42 to regulate actin polymerization that is critical for proper cell motility and migration control during gastrulation in zebrafish.
+Cdc42 GTPase and Rac1 GTPase act downstream of p120 catenin and require GTP exchange during gastrulation of zebrafish mesoderm.
+Cdc42 deficiency causes ciliary abnormalities and cystic kidneys.
+Knockdown of fat1 in zebrafish causes pronephric cysts, which is partially rescued by RAC1/CDC42 activators, confirming a role of the two small GTPases in the pathogenesis.
+Maternal miR-202-5p is required for zebrafish primordial germ cell migration by protecting small GTPase Cdc42.
+Nicalin/Nodal modulator complex antagonizes Nodal signaling during mesendodermal patterning in zebrafish
+nicalin is associated with protein complexes involved in cell fate decisions during early embryonic development--{review}
+Transplantation experiments demonstrated that med14 and brg1 are required directly in neural crest cells. Analysis of med14; brg1 double mutant embryos suggested the existence of strong genetic interaction between members of Mediator and BAF complexes.
+We show here that sdc2,sdc3 and sdc4 are expressed in the zebrafish embryonic brain during the major period of axon growth. These genes show differing expression patterns in the brain which provides putative insights into their functional specificity.
+Prrx1b, a Prx-related homeobox protein, participates in the regulation of vmhc expression with other transcriptional factors.
+heterozygous chihuahua fish have phenotypic similarities to human osteogenesis imperfecta; mapping and molecular characterization of the chihuahua mutation indicates that the defect resides in the gene encoding the collagen I(alpha1) chain
+ven though in adult bone, skin and scales equal amounts of a1(col1a1a) a2(col1a2) and a3(col1a2)chains are present, the presented data suggest a tissue-specific stoichiometry and/or post-translational modification status for collagen type I
+Spatio-temporal expression and distribution of collagen VI during zebrafish development.
+A novel de novo mutation in COL1A1 leading to osteogenesis imperfecta confirmed by zebrafish model.
+membrane-type 1 metalloproteinase, zmmp-2, and tissue inhibitor 2 of metalloproteinases mRNA transcripts were expressed in the blastema
+Dexamethasone and hydrocortisone alter expression and activity of MMP-2 and MMP-9 in the embryonic zebrafish.
+Mmp2 facilitates endothelial-to-hematopoietic transition via ECM remodeling.
+Overexpression of setd3 decreased cell viability and activated caspase-3, indicating possible roles in apoptotic cell death and cell cycle regulation.
+deficiency of PRSS23 in zebrafish embryos inhibited the initiation of the endothelial to mesenchymal transition which resulted in atrioventricular canal malformation.
+Data indicate that dimerization is required for the dominant neurotoxicity of disease-associated GARS mutations and provide a rapid, tractable model for studying newly identified GARS variants for a role in human disease.
+Synj1 is required for anchoring of ribbons, for vesicle maintenance, and for synaptic transmission at cone photoreceptor ribbon synapses.
+Synj1 is critical for retrieval of membrane in order to maintain the quantity, timing of fusion, and spontaneous release properties of synaptic vesicles at hair-cell ribbon synapses.
+This protein localized predominantly to cone photoreceptors. Using blastula stage transplantation experiments, study demonstrates that rods from mutants lacking SynJ1 develop normally and do not have the pronounced morphological defects detected in cones
+Synaptojanin 1 is required for endolysosomal trafficking of synaptic proteins in cone photoreceptor inner segments.
+A specific role for SynJ1 in autophagosomal and endosomal trafficking is described and evidence that PI(4,5)P2 participates in autophagy in cone photoreceptors is provided.
+Zebrafish possess two genes, sept9a and sept9b that, like humans, express multiple transcripts.
+Zebrafish sulf1 and sulf2a are broadly expressed in the central nervous system (CNS) and non-neuronal tissue including heart, somite boundaries, olfactory system, and otic vesicle.
+Data indicate that sulf1 plays a crucial role in modulating both BMP and FGF signaling.
+lack of SULF1 expression downregulates VEGFA-mediated arterial marker expression, confirming that Sulf1 mediates arterial specification by regulating VegfA165 activity.
+Sulf1 triggers Shh signaling activity to establish and, later on, modify the spatial arrangement of gene expression in ventral neural progenitors
+Sulfatases, in Particular Sulf1, Are Important for the Integrity of the Glomerular Filtration Barrier in Zebrafish.
+correlation between the expression of t-bet, stat6 and foxp3 with other genes involved in Th and T(reg) responses
+this study shows that STAT6 negatively regulates IFNphi1 production by attenuating the kinase activity of TANK-binding kinase 1
+These results reveal a crosstalk between neurons and immune cells mediated by IL4/STAT6 signaling, which induces neural stem/progenitor cell plasticity in zebrafish brains.
+myeloperoxidase and H2O2 interact directly within neutrophils at the tissue wound
+mpx expression is controlled differently in the anterior lateral plate mesoderm and posterior lateral plate mesoderm regions and describe novel roles for etv2 and gata1 during primitive neutropoiesis.
+When infiltrated with Candida albicans, smu681 myeloperoxidase-deficient embryos and sibling embryos showed similar survival. Proliferation of C. albicans was more rapid in smu681 embryos than in sibling embryos, although it was eventually suppressed.
+The initial characterization of wdr68 suggests an important role in craniofacial development for the highly conserved Wdr68-Dyrk1 protein complexes.
+we show that while a GFP-Wdr68 fusion functionally substituted for craniofacial development in the zebrafish, that a Nuclear Export Signal (NES) fusion protein (GFPNESWdr68) failed to support craniofacial development
+these findings reveal an indirect role for Wdr68 in the BMP-Edn1-Jag1b signaling hierarchy and dorso-anterior expression of dlx1a/2a.
+The effect of deleting atp6v1a on embryonic acid secretion and ion balance is reported.
+The transcription factor, glial cell missing 2, is involved in differentiation and functional regulation of H+-ATPase-rich cells in zebrafish.
+is required to facilitate normal ammonia excretion in the zebrafish larva
+Rhcg1 and Rhbg mediate ammonia excretion by ionocytes and keratinocytes in the skin of zebrafish larvae.
+Zebrafish etv5a is essential for the inhibition of ventral mesoderm cell proliferation and for the formation of the hemato-vascular lineage.
+etv5a and etv4 have roles in mediating epithelial cell fate during zebrafish kidney development
+Developmental regulation of zOGT transcriptional variants generated by alternative splicing and characterization of their OGT activities of protein O-GlcNAcylation.
+Overexpression of Ogt delayed epiboly and caused a severe disorganization of the microtubule and actin based cytoskeleton in the extra-embryonic yolk syncytial layer.
+We identify a TET1 domain that is necessary and sufficient for binding to OGT and report a point mutation that disrupts the TET1-OGT interaction.show that this interaction is necessary for TET1 to rescue hematopoetic stem cell production in tet mutant zebrafish embryos, suggesting that OGT promotes TET1's function during development.
+Cloning of pip5k3 and report on its molecular characterization and expression pattern in adult fish as well as during development.
+Rab5-mediated endocytosis of E-cadherin is enhanced at the boundary between normal and RasV12 cells.
+describe a mutant, softy, which displays severe embryonic muscle degeneration as a result of initial basement membrane failure
+frd2 is expressed in the developing brain and mesoderm.
+expressed in mesoderm precursors during early embryogenesis and is positively regulated by Nodal signals
+two Dvl-associated paralogs, Dpr1 and Dpr2, participate in distinct Wnt-dependent developmental processes
+target of beta-catenin and/or an unknown downstream effector in development
+Dact2 is involved in the regulation of epithelial-mesenchymal transition.
+Bapx1-endothelin 1 effector, patterns jaw joint
+nkx3.2 mutant zebrafish accommodate jaw joint loss through a phenocopy of the head shapes of Paleozoic jawless fish.
+Zebrafish model for spondylo-megaepiphyseal-metaphyseal dysplasia reveals post-embryonic roles of Nkx3.2 in the skeleton.
+The elongation factors Pandora/Spt6 and Foggy/Spt5 promote transcription in the zebrafish embryo. (Pandora/Spt6)
+Spt6 is essential for the transcriptional response to activation of the Notch pathway.
+despite the absence of southpaw expression in the brain, early diencephalic left-right asymmetry requires Southpaw activity
+required for organizing at least the initial phase of diencephalic left-right (LR) asymmetry; experiments suggest that heart and brain LR patterning may be coordinated by southpaw signaling [review]
+Antagonistic interactions between Charon and Southpaw play an important role in L/R patterning in zebrafish
+In zebrafish, it appears that pkd2 is not responsible for the activation of spaw transcription, but is required for a mechanism to restrict spaw expression to the left half of the embryo.
+investigate whether loss of Brachyury/Notail or Tbx16/Spadetail disrupts the balance of Nodal ligands (Southpaw) and antagonists (Charon) around Kupffers Vesicle
+In a unique mutant defective for the Nodal-related southpaw gene, preferential dextral looping in the heart is maintained, whereas gut and brain asymmetries are randomized.
+Zebrafish Klf8 regulates left-right asymmetric patterning by modulating both Kupffer's vesicle morphogenesis and spaw expression in the left lateral plate mesoderm (LPM).
+This protein was isolated, characterized and examined for enzymatic activities using a variety of endogenous compounds as substrates.
+SULT2 ST2 and SULT2 ST3 showed distinct patterns of expression during embryonic development and throughout the larval stage onto maturity.
+Our results suggest that Unc119c is the only Unc119 paralog that is highly specific to the retina in zebrafish. Unc119c and Arl3l2 proteins are important for the function of cones.
+Cvl2 was identified as an essential pro-bone morphogenetic protein factor during zebrafish embryogenesis.
+Bmper is a conserved regulator of hematopoietic and vascular development in zebrafish.
+Initial crystallographic analysis suggests that a complete binary complex consisting of one BMP2 dimer bound to two crossveinless 2 (CV2) von Willebrand type C (VWC1) domains is present in the asymmetric unit.
+The structure of the complex between CV-2 Von Willebrand factor type C (VWC) domain 1 and BMP-2, is reported.
+Binding of CV2 to Chordin promotes BMP-2 signaling.
+LRP1 acts as an endocytic receptor for Bmper and a coreceptor of Bmp4 to mediate the endocytosis of the Bmper/Bmp4 signaling complex.
+The NMR structure of the Danio rerio CV2 VWC1 domain in its unbound state shows the key features for high affinity binding to BMP-2 are a pre-oriented peptide loop.
+Crossveinless 2 functions in a positive-feedback loop to locally enhance BMP activity and is required for neural crest fate determination.
+Data show that in endothelial cells, bone morphogenetic protein endothelial precursor-derived regulator (BMPER) and twisted gastrulation protein homolog 1 (TWSG1) are necessary for regular Notch signaling activity.
+ftr82 is a vascular gene that plays an important role for vascular development in zebrafish.
+CD146 protein expression has a role in vascular development in zebrafish
+In addition to the physiological angiogenesis during development, gicerin morphants efficiently blocked the tumor angiogenesis in zebrafish.
+CD146 regulates convergent extension movement during gastrulation
+In the context of adult zebrafish spinal cord injury, we proved that Melanoma cell adhesion molecule (MCAM) is beneficial to the recovery, possibly via mechanisms of angiogenensis and inflammation
+MCAM coordination of apical-basal polarity and planar cell polarity provides insight into the general mechanisms of morphogenesis.
+Transcriptome analysis revealed that SepH deficiency induces an inflammatory response and activates the p53 pathway. Consequently, loss of seph renders larvae susceptible to oxidative stress and DNA damage. Finally, we demonstrate that seph interacts with p53 deficiency in adulthood to accelerate gastrointestinal tumor development
+Mib encodes a RING ubiquitin ligase that promotes ubiquitylation and internalization of Delta.
+Mosaic analysis indicates that the bronchiomotor neurons patterning and fusion defects in the mib hindbrain arise non-cell autonomously.
+The three functionally distinct modules of Mind bomb work cooperatively to regulate Notch signaling by associating with, ubiquitinating, and internalizing Delta.
+Here we further demonstrated that zebrafish Mib and Mib2, similar to their mouse orthologs, have a C-terminal-most RING finger-dependent E3 ubiquitin ligase activity. Mib and Mib2 are reciprocal E3 ubiquitin ligases and substrates.
+Zebrafish Mib and Mib2 are colocalized in transfected cells and function redundantly in regulating Notch signaling in embryos.
+The mib ( ta52b ) mutation may affect not only neurogenesis but also mesoderm development. These results provide new insights into Notch signaling pathway.
+Mib-Jag1-Notch signalling regulates patterning and structural roles of the notochord by controlling cell-fate decisions
+mind bomb mutants have downregulation of several genes necessary for GABA-mediated signaling. Spontaneous seizures are seen in these animals.
+Data indicate a general down-regulation of Notch signaling genes necessary for proper brain development in mind bomb-mutant zebrafish embryos.
+Mib and Mib2 interact with Fih-1 that is involved in the hypoxia signaling pathway.
+forms of DeltaD that have the MID can activate Notch in trans and suppress early neurogenesis when mRNA encoding it is ectopically expressed in zebrafish embryos.
+indicate that miR-10 regulates the angiogenic behaviour in a Notch-dependent manner by directly targeting mib1
+Epb41l5 competes with Delta as a substrate for Mib1 to coordinate specification and differentiation of neurons.
+Data reported the first genome-wide analysis and transcriptome profiling of the new mib(nn2002) in Zebrafish. These results suggested that the defects in the somitogenesis were related to the down-regulated segmentation genes, such as foxc1a, smyhc1, myod1 and mylpfa.
+Data identify Danio rerio keratins 8/18 as the true orthologs of the human keratin pair 8/18.
+krt18 is maternally inherited and its tissue distribution is reported.  Its expression is established during early embryogenesis.
+Microtubules and motor proteins support zebrafish neuronal migration by directing cargo.
+alteration of myofibril architecture and tendon-like structure in embryos deficient for SelN function provide new insights into the pathological mechanism of SelN-related myopathy
+sepn1 and ryr1 are required for the same cellular differentiation events and are needed for normal calcium fluxes
+The opn4.1 gene is not expressed in the brain until 3 dpf, when transcripts are located at the juncture between the caudal hindbrain and anterior spinal cord, in cells in the ventricular region.
+Opn4m2 labeling shows nuclear localization, which did not change in response to light. opn4m1, opn4m2, gr, per1b, and cry1b presented an oscillatory profile of expression in LD condition. In both DD and LD condition, dexamethasone (DEX) treatment shifted the peak expression of per1b and cry1b transcripts
+Isotocin stimulates the proliferation of epidermal stem cells and differentiation of ionocyte progenitors by regulating the P63 and Foxi3a transcription factors, consequently enhancing the functional activities of ionocytes.
+Genetic loss of roundabout homolog 2 protein (robo2)displayed decreased synaptic oxytocin (OXT) content and robo2 mutants displayed reduced mobility of the actin probe Lifeact-EGFP in OXT synapses.
+These results showed that TRPV4 modulates ion balance through the isotocin pathway.
+Results describe the ontogeny of vasotocin-expressing cells in zebrafish, and the selective requirement for the transcriptional regulators orthopedia and single-minded 1 in the preoptic area.
+We found that the gpx4b gene shows maternal and zygotic gene expression in the embryo proper compared to gpx4a that showed zygotic gene expression in the periderm covering the yolk cell only.
+We found that the gpx4b gene shows maternal and zygotic gene expression in the embryo proper compared to gpx4a that showed zygotic gene expression in the periderm covering the yolk cell only.
+maternal loss of zebrafish gpx4b promotes embryonic dorsal organizer formation.
+These results reveal divergent requirements for Gli1 and Gli2 in mouse and zebrafish and indicate that zebrafish Gli1 is an activator of Hh-regulated genes, while zebrafish Gli2 has minor roles as a repressor or activator of Hh targets.
+Gli1 regulates the maintenance of neural progenitors at the midbrain-hindbrain boundary in concert with E(Spl) factor activity.
+Gli1 has a Hh-independent role in many motoneurons and V3 domain cells in embryos that lack Hh signalling, but removal of Gli1 activity does not affect more dorsal neurons.
+We show that Kif7 interacts with both Gli1 and Gli2a and suggest that it functions to sequester Gli proteins in the cytoplasm, in a manner analogous to the regulation of Ci by Cos2 in Drosophila.
+a new mechanism of Gli transcription factor activation and implicate ARHGAP36 dysregulation in the onset and/or progression of GLI-dependent cancers.
+Mutation of hmgcs1 had no effect on Shh signaling at 2 and 3 days post fertilization (dpf), but did result in a decrease in the expression of gli1, a known Shh target gene, at 4 dpf, after morphological deficits in craniofacial development and chondrocyte differentiation were observed in hmgcs1 mutants.
+Data identify core coding region sequence determinants within the SELENOP mRNA that govern SELENOP synthesis. The N-terminal coding sequence (upstream of the second UGA) and C-terminal coding sequence context are two independent determinants for efficient synthesis of full-length SELENOP. In addition, the distance between the first UGA and the consensus signal peptide is also critical for efficiency.
+role in zebrafish embryonic development
+This study investigated deiodinase 1 (Dio1), deiodinase 2 (Dio2), and deiodinase 3 (Dio3) mRNA expression at the several zebrafish life stages and found life stage specific expression of these genes that were highly localized.
+Knockdown of D1+D2 (D1D2MO) and knockdown of D3 (D3MO) both resulted in transcriptional regulation of energy metabolism and (muscle) development in abdomen and tail
+essential to assure normal development
+In zebrafish embryos, D2 knockdown increased mortality during pneumococcal meningitis.
+multiple compensatory mechanisms lead to normoglycemia in older Dio2 knockout zebrafish, despite persistent T3 deficiency
+cloning, characterization and expression patterns; results suggest that the M2 mAChR inhibits basal heart rate in zebrafish embryo and mediates carbachol-induced bradycardia
+The M(2) muscarinic receptor plays a specific role in the initiation of hypoxic bradycardia in fish.
+A repressor-type homeobox gene that regulates posterior neurogenesis
+the roles of Fgfr2 signaling in zebrafish left-right asymmetry
+Fibroblast growth factor receptor 2c signaling is required for intestinal cell differentiation in zebrafish.[Fgfr2c]
+we show that minimal amounts of Fgfr1a or Fgfr2 are required to initiate a regulatory cascade in pharyngeal endoderm reducing expression of fsta, thereby allowing correct BMP signaling to the maturing chondrocytes of the head cartilage.
+DHHC zinc finger gene, expressed in somites and lens during zebrafish embryogenesis
+Our findings indicate that the reduced postsynaptic receptor density resulting from defective rapsyn contributes to weakness, but is not solely responsible for use-dependent fatigue
+DNA Methylation Profiles of Tph1A and BDNF in Gut and Brain of L. Rhamnosus-Treated Zebrafish.
+A trail of SDF1-like chemokine encoded by the sdf1a gene is present along the pathway of the lateral line primordium. Both the formation and the innervation of this system depend on the SDF1-CXCR4 system
+SDF1/CXCR4-mediated cell migration is preferentially associated with movement along the anteroposterior axis of the animal
+SDF-1/CXCR4 signaling is important for guiding retinal ganglion cell axons within the retina to the optic stalk to exit the retina.
+Sdf1a/Cxcr4a plays a critical role in fin regeneration and more precisely in epidermal cell proliferation, an important process for blastema formation
+results reveal a role for chemokine signaling in mediating the self-organizing migration of tissues during morphogenesis
+Sdf1 is a key molecule in pigment pattern formation, adding to the growing inventory of its roles in embryonic development.
+Endogenous levels of SDF1 antagonize the repellent effects of slit/robo signaling in vivo and is important during axonal pathfinding.
+during early myogenesis Sdf1a co-operates with the second Cxcr4 of zebrafish - Cxcr4a resulting in the commitment of myoblast to form fast muscle
+chemokine signaling contributes to both the olfactory placode assembly and the olfactory sensory neurons axon pathfinding in zebrafish
+SDF1a directly controls the migration of both leading and trailing edges of a tissue through the activation of two independent receptors, CXCR4b and CXCR7.
+Study demonstrates that the activity of a SDF-1a receptor, CXCR7, is crucial for proper migration of primordial germ cells toward their targets.
+sdf1-expressing mesodermal cells, which overlie the endodermal layer, guide the cxcr4a-expressing endodermal cells to the dorsal side of the embryo during gastrulation
+Fgf and Sdf-1 pathways interact during zebrafish fin regeneration
+Study suggest that the Cxcl12a-Cxcr4b ligand-receptor pair are involved in the migration of GnRH3 neurons in zebrafish, and are therefore crucial for the development of this system.
+Expression of Cxcl12 and Cxclr4 in radial glial cells of the adult zebrafish brain supports important roles for the Cxcl12/Cxcr4 pair in brain development and functioning.
+we demonstrate that miR-430-mediated regulation of endogenous sdf1a and cxcr7b facilitates dynamic expression of sdf1a by clearing its mRNA from previous expression domains.
+sdf-1 expression and function in the adult zebrafish have important similarities to mammals
+A single amino acid exchange switches the relative affinity of the Cxcl12 ligands for one of the duplicated Cxcr4 receptors, thereby determining the functional specialization of each chemokine that elicits a distinct function in a distinct process.
+gata4 gene regulates sdf1a levels during early embryogenesis
+These findings suggest an "attractive path" model in which migrating cells closely follow a dynamic SDF1a source that is refined on a transcript and protein level by miR-430 and Cxcr7b, respectively.
+Study demonstrates that forced expression of Sdf1a in the fish embryo during early development is an effective strategy to disrupt primordial germ cell migration and produce large populations of infertile fish.
+Study shows that the primordium generates an attractant gradient across itself by sequestering Sdf1a protein in its rear via Cxcr7-mediated chemokine uptake. This self-generated attractant gradient, combined with the route information provided by the stripe of sdf1a-expressing cells, then provides directional guidance to the migrating primordium.
+Prospective isolation and culture of sdf1(DsRed) perivascular cells demonstrated properties consistent with mesenchymal stem cells.
+Our data show that elevated concentrations of circulating CXCL12a in pulmonary hypertension predicted poorer survival
+filopodia distribution and their dynamics are dictated by the gradient of the chemokine Cxcl12a.
+miR-126a directs lymphatic endothelial cell sprouting and extension by interacting with Cxcl12a-mediated chemokine signaling and Vegfc-Flt4 signal axis.
+formulate a mathematical model of a laser ablated primordium separated into two smaller cell collectives: a leading collective that responds to local CXCL12a levels and a trailing collective that migrates up a local FGF gradient.
+snail1b expression is initiated by chemokines first encountered by leading primordium cells and its expression plays a crucial role in initiating collective migration of the posterior lateral line primordium.
+Cxcl12 and Myc facilitate glycolysis to promote fast migratory responses during development and repair during kidney injury and development
+The CXCL12/CXCR4 Signaling Axis Retains Neutrophils at Inflammatory Sites in Zebrafish.
+The complex regulation patterns suggest roles for Cntn1a in myelinating cells and neurons particularly in successful CNS regeneration.
+Evolution of mc1r in zebrafish is reported.
+This study demonstrated a direct role for mc1r in zebrafish melanosome dispersal in response to background, and used chemical modification of this pathway to uncover a possible new layer of regulation in melanosome dispersal in zebrafish.
+loss-of-function of mc1r causes a reduction of countershading and a general paling of the animals.
+zfMC2R is not functional in the absence of MRAP expression.
+sp5 transcription factors mediate the downstream responses to Wnt/beta-catenin signaling in several developmental processes in zebrafish.
+Data establish that PERE is a novel cis-acting element contributing to pineal-specific gene expression and to Otx target gene regulation.
+Genetic deciphering of the antagonistic activities of the melanin-concentrating hormone and melanocortin pathways in skin pigmentation.
+cloning and characterization of the pro-opiomelanocortin gene
+Zebrafish proopiomelanocortin (zfPOMC) contains the consensus sequences for ACTH, gamma-LPH, beta-MSH and beta-endorphin (beta-END). RT-PCR expression studies indicate that zfPOMC is selectively expressed in nervous tissue and in the pituitary gland.
+Pituitary expression of proopiomelanocortin provides a unique marker for pituitary anterior and intermediate lobe morphogenesis.
+Hypothalamic pro-opiomelanocortin and AgRP neurons are hypophysiotropic, projecting to the pituitary to coordinately regulate multiple pituitary hormones.
+We identify the neuronal regulatory region of zebrafish pomca and confirm that it is not homologous to the mammalian enhancers.
+The evolution of pomc, pmch and pmchl genes and acquisition of hormonal status for MCHL explain different mechanisms used by vertebrates to background-adapt
+Hyperandrogenism in POMCa-deficient zebrafish enhances somatic growth without increasing adiposity.
+cloning of the gene and cDNA encoding cGnRH-II from zebrafish; in situ hybridization analysis of expression in adult zebrafish brains; levels quantified in the pituitary
+GnRH loss-of-function affects early brain and eye formation during development.
+Results show that the Notch-regulated ankyrin repeat protein (Nrarp) acts as a molecular link between Notch- and Lef1-dependent Wnt signaling in endothelial cells to control stability of new vessel connections in mouse and zebrafish.
+Results show that the Notch-regulated ankyrin repeat protein (Nrarp) acts as a molecular link between Notch- and Lef1-dependent Wnt signaling in endothelial cells to control stability of new vessel connections in mouse and zebrafish.
+Neuropilin 1a is required for vascular development and is a mediator of VEGF-dependent angiogenesis in zebrafish.
+neuropilin-1a in primary motor neurons may integrate signals from several ligands
+neuropilin 1 can facilitate downstream signaling to promote angiogenesis.
+Sema3D acts in concert with Nrp1a to guide neurons on the left side of the brain to innervate the target nucleus differently than those on the right side.
+Elevated cyclicAMP levels promote Neuropilin-1a expression in retinal ganglion cells.
+Nrp1 in endothelial cells suppresses TGFbeta activation and signaling by forming intercellular protein complexes with beta8 integrin.
+repression of NRP1 by the HIF1alpha-E2F7 complex regulates spinal motor neuron axon guidance in vivo

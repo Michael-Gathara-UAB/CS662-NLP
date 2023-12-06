@@ -1,0 +1,5 @@
+membrane-type 1 metalloproteinase, zmmp-2, and tissue inhibitor 2 of metalloproteinases mRNA transcripts were expressed in the blastema
+Dexamethasone and hydrocortisone alter expression and activity of MMP-2 and MMP-9 in the embryonic zebrafish.
+Mmp2 facilitates endothelial-to-hematopoietic transition via ECM remodeling.
+Overexpression of setd3 decreased cell viability and activated caspase-3, indicating possible roles in apoptotic cell death and cell cycle regulation.
+deficiency of PRSS23 in zebrafish embryos inhibited the initiation of the endothelial to mesenchymal transition which resulted in atrioventricular canal malformation.

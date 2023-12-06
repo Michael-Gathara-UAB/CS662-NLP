@@ -1,0 +1,5 @@
+Initial crystallographic analysis suggests that a complete binary complex consisting of one BMP2 dimer bound to two crossveinless 2 (CV2) von Willebrand type C (VWC1) domains is present in the asymmetric unit.
+The structure of the complex between CV-2 Von Willebrand factor type C (VWC) domain 1 and BMP-2, is reported.
+Binding of CV2 to Chordin promotes BMP-2 signaling.
+LRP1 acts as an endocytic receptor for Bmper and a coreceptor of Bmp4 to mediate the endocytosis of the Bmper/Bmp4 signaling complex.
+The NMR structure of the Danio rerio CV2 VWC1 domain in its unbound state shows the key features for high affinity binding to BMP-2 are a pre-oriented peptide loop.
