@@ -1,0 +1,128 @@
+303694252 EH
+14027692
+097370
+08/05/2001 12:00:00 AM
+erosive esophagitis
+DIS
+Admission Date :
+08/05/2001
+Report Status :
+Discharge Date :
+08/08/2001
+****** DISCHARGE ORDERS ******
+RHALTHEAGLE , LEELO 506-20-55-6 K40
+Room :
+89N-803
+Service :
+MED
+DISCHARGE PATIENT ON :
+08/08/01 AT 04:00 PM
+CONTINGENT UPON
+SNF / rehab
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+GRENDZISKLEEB , FACISA TIELO , M.D.
+CODE STATUS :
+No CPR / No defib /
+DISPOSITION :
+No- Ter Chipold Medical Center
+DISCHARGE MEDICATIONS :
+ROBITUSSIN ( GUAIFENESIN ) 10 MILLILITERS PO Q4H PRN cough FLAGYL ( METRONIDAZOLE ) 500 MG PO TID X 5 Days Starting Today ( 08/08 ) NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL q5min x 3 PRN chest pain
+HOLD IF :
+SBP &lt; 100 AMBIEN ( ZOLPIDEM TARTRATE ) 5 MG PO QHS PRN insomnia
+Food / Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after food )
+Number of Doses Required ( approximate ) :
+5 LEVOFLOXACIN 250 MG PO QD X 5 Days Starting Today ( 08/08 )
+Alert overridden :
+Override added on 08/08/01 by :
+POTENTIALLY SERIOUS INTERACTION :
+HALOPERIDOL and LEVOFLOXACIN
+POTENTIALLY SERIOUS INTERACTION :
+HALOPERIDOL and LEVOFLOXACIN
+Reason for override :
+aware
+Previous Override Notice
+Override added on 08/07/01 by ZISKFUSCJALK , ACRI , M.D. on order for HALDOL IM ( ref # 09647807 )
+POTENTIALLY SERIOUS INTERACTION :
+LEVOFLOXACIN and HALOPERIDOL
+Reason for override :
+awre
+Previous override information :
+Override added on 08/07/01 by ZISKFUSCJALK , ACRI , M.D. on order for HALDOL PO ( ref # 60739147 )
+POTENTIALLY SERIOUS INTERACTION :
+LEVOFLOXACIN and HALOPERIDOL
+Reason for override :
+aware
+OMEPRAZOLE 40 MG PO BID X 45 Days ATENOLOL 25 MG PO BID
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Scaher Grend , RAMMCO 8/20 , 3:30pm scheduled , No Known Allergies
+ADMIT DIAGNOSIS :
+hematemesis
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) erosive esophagitis
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay right scrotal hydrocele bph ( benign prostatic hypertrophy ) ? nph ( ? hydrocephalus ) dementia ( dementia )
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Esophagogastroduodenoscopy
+BRIEF RESUME OF HOSPITAL COURSE :
+86 yo male with one day of hematemesis ( history unclear ) .
+No known TB or CA history .
+No SOB , ? fever at home .
+No known dysphagia .
+Also c / o chest pain , substernal discomfort for past few days .
+Brought in from assisted living facility .
+In ED HR 70 , BP 130/80 , O2sat 96% .
+Hct 44 .
+CXR notable for RLL infiltrate with old B upper lung field granulomas .
+Chest CT notable for esophageal diverticulum and thickened distal 1/3 of esophagus , suspicious for malignancy .
++ alveolar opacities c / w alveolar hemorrhage or aspirated blood .
+Also with multiple cystic hypodensities in liver seen in previous scans .
+1 ) GI :
+Throughout admission , hematemesis flow decreased while on PPI and clear liquids .
+EGD 08/08/01 showed mulitple non-bleeding linear erosions with an irregular circumfrencial ulcer at the GE junction .
+Tolerated advancement to a soft mechanical diet well .
+Started on omeprazole 40 mg po bid x6 wks .
+2 ) CV :
+CP , low prob with atypical chest pain , CK &apos;s x3 flat , and no further episodes of CP during the admission .
+BP remained stable throughout the admission ; initially , BP meds were held , but as VS remai ned stable and bleeding subsided , lopressor was titrated up to 25 mg po tid .
+He was switched back to his home dose of atenolol 25 mg po bid
+3 ) ID :
+Levo and flagyl for presumed aspiration pneumonia / pneuomonitis .
+4 ) GU :
+h / o obstructive uropathy -- UOP was erratic , but no foley was needed .
+Bun / Cr were stable .
+5 ) FEN :
+Started on clear liquids .
+Once bleed ing stopped , advanced diet to soft-mechanical .
+CODE :
+DNR , NO CPR , may intubate for airway protection , call son .
+Disposition Plans :
+Will follow-up with his PMD ; biopsy results to be followed closely .
+If biopsy results abnormal , will need follow-up intra-esophageal ultrasound by GI service .
+ADDITIONAL COMMENTS :
+You have been admitted for evaluation of an esophageal bleed .
+You have some erosions in the esophagus which are no longer bleeding .
+You will need to continue to take special medications for these erosions .
+If you experience further bleeding or increasing discomfort with swallowing , you must tell your nurse and call your doctor right away .
+Please follow-up the biopsy results with your doctor .
+You may need to have further studies at a later date .
+Continue all your previous medications as directed .
+DISCHARGE CONDITION :
+Satisfactory
+TO DO / PLAN :
+1 ) Follow-up esophageal biopsy results
+2 ) Schedule GI follow-up if biopsy results abnormal or if continued bleeding .
+3 ) Consider oncology follow-up if biopsies suggestive of malignancy
+4 ) Omeprazole 40 mg po bid x6 wks .
+No dictated summary
+ENTERED BY :
+ZISKFUSCJALK , ACRI , M.D. ( AN36 )
+08/08/01 03:06 PM
+****** END OF DISCHARGE ORDERS ******

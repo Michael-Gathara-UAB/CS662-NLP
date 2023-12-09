@@ -1,0 +1,97 @@
+895872725 ELMVH
+99080881
+979718
+5/25/2002 12:00:00 AM
+Chest pain
+DIS
+Admission Date :
+05/25/2002
+Report Status :
+Discharge Date :
+05/27/2002
+****** DISCHARGE ORDERS ******
+FYFEWIERST , MIER
+799-99-77-2 X12
+Room :
+33C-139
+Service :
+CAR
+DISCHARGE PATIENT ON :
+05/27/02 AT 04:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SAGELYSS , TYTUMZE VACHOLLE , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+LOPRESSOR ( METOPROLOL TARTRATE ) 12.5 MG PO BID
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+ENALAPRIL MALEATE 20
+MG PO BID DIET :
+House / Low chol / low sat. fat
+Activity - As tolerated
+RETURN TO WORK :
+After Appt with local physician
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Hashimoto , No Known Allergies
+ADMIT DIAGNOSIS :
+chest pressure ; r / o mi
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) Chest pain
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+Chest pain ; R / o
+MI
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Echocardiogram MRA Kidney
+BRIEF RESUME OF HOSPITAL COURSE :
+51 yo F h / o HTN , hyperchol , p / w SS chest pressure x 3 days .
+USOH until 3 day PTa , dev new SS chest pressure sometimes rad to back and L neck / jaw .
+Not assoc with exertion ( pt has active lifestyle ) .
+Pressure lasted for hours at a time .
+Variably assoc with SOB , nausea , palpitations , tremulousness , diaphoresis .
+Pt has HTN , measured BP home 200/100 .
+Reported to a local ED was found to have BP up to 200/100 .
+Put on NTG drip without relief .
+Pain 2/10 persisted , relieved by MSO4 .
+At ELMVH ED , BP 160/87 .
+Now adm for r / o MI , eval of ? demand ischemia , plus w / u of HTN urgency ( which may be very new in onset ) .
+PE T97.5 P59 BP ( l ) 180/86 ( r ) 186/98 RR20 98% 2L .
+Exam only notable for II / VI systolic murmur .
+Labs only notable for CK 54 ( nl ) , Trop 0.03 , Hct 35.6 MCV 79 .
+EKG LBBB NSR .
+CXR negative .
+Plan ROMI protocol .
+CP protocol .
+Captopril and nitropaste to control pressure .
+MSO4 for CP .
+Echo , MRA ( r / o dissection ) , urine catecholamines and VMA .
+Guaiac all stools , check iron studies .
+HOSPITAL COURSE
+1. Chest Pain
+- Pt placed on captopril 25 tid , lopressor 12.5 BID and NTG paste SS , achieving normal BP w / in 5 hrs of adm to floor .
+Her CPress dissappeared over the same timeframe .
+- pt r&apos;d / o for mi by CPK ( 54-&gt; 38-&gt; 33 ) and TPN ( 0.03 ) , and stable EKG .
+2. Hypertension
+- controlled on captopril + lopressor to 110-130s ; NTG paste causing 30 pt drop so d / c&apos;d .
+- MRA kidney :
+no stenosis ; no parenchymal lesions
+- CXR :
+no obvious mediastinal widening , but no comp arison film ; wnl
+- echo :
+prelim :
+EF 55-60 , ? septal flattening , mild TR and MR , trace effusion -24h urine study :
+pending .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Satisfactory
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+MEED , CILE PRILARA , M.D. , PH.D. ( RG185 ) 05/27/02 05:35 PM
+****** END OF DISCHARGE ORDERS ******

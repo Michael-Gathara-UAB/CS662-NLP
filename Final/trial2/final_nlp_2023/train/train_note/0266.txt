@@ -1,0 +1,158 @@
+383938711 ELMVH
+08236772
+6307693
+10/30/2006 12:00:00 AM
+s / p Multiple falls
+DIS
+Admission Date :
+10/30/2006
+Report Status :
+Discharge Date :
+11/03/2006
+****** FINAL DISCHARGE ORDERS ******
+TROUITSA , WIN
+509-64-03-7 E03
+Room :
+40R-480
+Service :
+RNM
+DISCHARGE PATIENT ON :
+11/03/06 AT 10:45 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+FYFE , NAAN ACANDEA , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H Starting Today ( 11/02 ) PRN Headache
+Instructions :
+Do not take more than 4gm / day ACETYLSALICYLIC ACID 325 MG PO DAILY PHOSLO ( CALCIUM ACETATE ( 1 GELCAP = 667 MG ) ) 1,334 MG PO TID
+Instructions :
+Please give with meals FLOVENT HFA ( FLUTICASONE PROPIONATE ) 44 MCG INH BID LABETALOL HCL 300
+MG PO BID
+HOLD IF :
+SBP &lt; 100 or HR &lt; 55
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+COZAAR ( LOSARTAN ) 50
+MG PO DAILY HOLD IF :
+SBP &lt; 100
+Number of Doses Required ( approximate ) :
+3
+NEPHROCAPS ( NEPHRO-VIT RX ) 1 TAB PO DAILY
+Alert overridden :
+Override added on 10/30/06 by FELSAPPRYDEFUSC , ERI N. , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+SIMVASTATIN and NIACIN , VIT. B-3
+Reason for override :
+will monitor
+ZOCOR ( SIMVASTATIN ) 40 MG PO BEDTIME
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+Override Notice :
+Override added on 10/30/06 by FELSAPPRYDEFUSC , ERI N. , M.D. on order for NEPHROCAPS PO ( ref # 581988585 )
+POTENTIALLY SERIOUS INTERACTION :
+SIMVASTATIN and NIACIN , VIT .
+B-3
+Reason for override :
+will monitor
+DIET :
+House / 2 gm Na / Low saturated fat low cholesterol / 2 gram K+ , Renal diet &lt; I &gt; &lt; FDI &gt;
+ACTIVITY :
+Walking as tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+Hemodialysis MWF , Dr. Gaetz 220-871-6906 1-2 weeks , Dr. Clow 836-771-4924 1 week , Cardiology Clinic 452-860-1428 , please call to make an appointment in 1-2 weeks with a cardiology fellow ,
+ALLERGY :
+NKA
+ADMIT DIAGNOSIS :
+s / p Multiple falls
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p Multiple falls
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+IHSS AF ESRD on HD , IgA nephropathy on transplant list , COPD , s / p pacemaker for afib , BPH s / p TURP , HTN , hypothyroidism , gout , h / o positive PPD MR
+OPERATIONS AND PROCEDURES :
+None
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Hemodialysis s / p abdominal fat pad biopsy 11/2/06
+BRIEF RESUME OF HOSPITAL COURSE :
+cc :
+falls
+HPI :
+62 yo m w / IgA nephropathy , developmental delay , began HD 7/31 .
+Was seen in dialysis on day of admission and was seen to have &quot; raccoon eyes &quot; and HD staff was worried about sending home .
+Head CT w / o bleed .
+Trauma series normal .
+Pt denies abuse or loc associated w / fall , but has noticed several recent falls .
+Recent neuro w / u including EEG , carotid u / s , head ct ( old stroke ) , dobutamine-MIBI ( fixed defect and small inferolateral reversible ) were all negative .
+Notable
+PMH :
+ESRD from IgA , s / p PPI after nodal ablation , HTN , COPD , hypothyroid , hypertrophic
+CM PE :
+T 96.5 , BP 145/97 , p 70 , Pox 98% Gen AO x 3 , raccoon eyes , large forehead hematoma
+Lungs :
+clear
+Abd :
+soft , NT
+Ext :
+1+ edema b / l
+Skin :
+warm , smooth , no rashes
+Access site :
+clean w / o inflammation
+Labs :
+K 3.5 , Creat 3.8 , Trop-I 0.45 , INR 1.6
+HOSPITAL COURSE :
+1. Falls-A PT consult was obtained to assist with ambulation .
+A social work consult was also obtained and deemed that the patient has appropriate support at home and is safe at home .
+The patient was placed on telemetry and had no telemetry events while an inpatient .
+He was also seen by the Electrophysiology service , his pacemaker was interrogated and working fine , with no signs of recent ventricular arrhythmia .
+The patient his undergoing a TTE prior to discharge to rule out a thrombus .
+His TTE showed EF 45-50% , moderate cLVH , abnormal diastolic function , moderate MR , moderate TR and severe LAE .
+THere was a question of ionfiltrative cardiomyopathy , and the patient underwent abdominal fat pad biopsy to assess for amyloidosis .
+He also currently has an SPEP / UPEP/Beta 2 microglobulin / ACE test that are currently pending .
+These should be followed up as an outaptient .
+He had carotid ultrasound studies 3 months ago that were normal without evidence for stenosis .
+2. Renal - cont MWF HD ; electrolytes have been stable .
+Perhaps his recent falls are related to orthostatic hypotension after dialysis .
+3. CV -The pt has a small area of reversible ischemia on recent MIBI , and has troponins persistently elevated in the setting of his renal disease .
+His troponins remained lower than his baseline levels and there was no suspicion of ACS causing syncope .
+He continued on his zocor , cozaar and labetalol .
+We will now hold his coumadin given his recent falls and bleeding risk .
+His aspirin was restarted prior to discharge .
+4. Endo - TSH was 4.7 and normal .
+5. Heme :
+The patient has a macrocytosis .
+His B12 level was 418 and normal .
+He does have a history of B12 deficiency in the past , and evidence for peripheral neuropathy BLE which may also be contributing to his recent falls . ? EtOH
+6. Psych :
+watch for EtOH WD .
+THe patient had no signs of alcohol withdrawal .
+His serum toxicology screen was negative .
+7. Pulm :
+COPD and R pleural effusion , off oxygen and stable .
+8. GU :
+R complex renal cyst , bladder diverticula .
+THe patient will need a follow up ultrasound to further evaluate these incidental findings seen on imaging upon admission .
+9. ID :
+The patient &apos;s urinalysis was normal .
+He had no fecal leukocytes .
+A c.difficile test is negative on prelim read , however very low suspicion given no recent antibiotic use .
+ADDITIONAL COMMENTS :
+Please return to the hospital if you have falls , headache , visual changes , muscle weakness , chest pain , shortness of breath .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+1) Hemodialysis
+2) Please do not take coumadin .
+3) Please follow up with PCP to have ultrasound of right kidney and bladder to assess right kidney cyst and bladder diverticula seen incidentally
+4) Please follow up with Dr. Clow to follow up results of abdominal fat pad biopsy and blood tests to assess for amyloid .
+No dictated summary
+ENTERED BY :
+FELSAPPRYDEFUSC , ERI N. , M.D. ( NT717 ) 11/03/06 10:51 AM
+****** END OF DISCHARGE ORDERS ******

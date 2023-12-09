@@ -1,0 +1,65 @@
+225281111
+GH
+59035229
+7/4/1999 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+07/04/1999
+Report Status :
+Signed
+Discharge Date :
+07/09/1999
+ADMISSION DIAGNOSIS :
+ABDOMINAL PAIN .
+DISCHARGE DIAGNOSIS :
+PARTIAL SMALL BOWEL OBSTRUCTION .
+HISTORY OF THE PRESENT ILLNESS :
+This is a 49 year-old male with a history of a low anterior resection in May of 1998 and a recurrence of metastasis with asleeve of section of left colon diverting ileostomy for recurrent metastasis later in May of 1999 who presents with anterior midepigastric abdominal pain .
+The patient states that the pain began at 10:30 on the day of admission with increase during the day of admission with positive nausea and vomiting , no diarrhea , decreased output from the ostomy , and the pain was radiating to the back .
+PAST MEDICAL HISTORY :
+As above .
+PAST SURGICAL HISTORY :
+As above .
+MEDICATIONS ON ADMISSION :
+Percocet and Naprosyn .
+ALLERGIES :
+Demerol .
+SOCIAL HISTORY :
+No tobacco and no alcohol use .
+PHYSICAL EXAMINATION ON ADMISSION :
+Temperature 98.8 , heart rate 68 , blood pressure 107/82 , and oxygen saturation 99% on room air .
+CHEST :
+Clear to auscultation .
+HEART :
+Regular rate and rhythm with no murmurs .
+ABDOMEN :
+Soft , mildly distended , and tympanic with midepigastric tenderness to palpation and no rebound .
+The ostomy was pink with minimal fluid in the ostomy bag .
+It was guaiac negative .
+EXTREMITIES :
+No signs of edema and the patient had warm and palpable pulses distally .
+HOSPITAL COURSE :
+Assessment was continued with laboratory studies which showed the patient to have a white blood cell count of 9 , hematocrit 39 , and platelets 470 .
+The patient had a normal amylase and lipase , and a normal basic metabolic panel .
+The patient had KUB that showed multiple dilated loops of small bowel and was admitted for a partial small bowel obstruction .
+An nasogastric tube was placed and had an H2 blocker started , and was admitted for bowel rest and decompression .
+The patient tolerated the nasogastric tube well .
+The nasogastric tube was removed on hsp day # 3 .
+The pain improved quickly and the patient was started on a clear liquid diet which was advanced as tolerated .
+On 7/9/99 , the patient was tolerating a house diet .
+The patient had some minimal back pain that occurred after food but with negative urinalysis and negative fever spikes over the entire course of this stay .
+The patient will be discharged home on Zantac , Simethicone , and preoperative medications with follow-up with Dr. Ur in two weeks .
+Dictated By :
+NISTE BLOCKER , M.D. AQ36
+Attending :
+STIE FYFE , M.D. BW3 BL436/5666
+Batch :
+85114
+Index No.
+FNQXCX58 EM
+D :
+07/09/99
+T :
+07/09/99 HP8
