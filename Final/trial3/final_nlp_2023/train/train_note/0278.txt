@@ -1,0 +1,108 @@
+389977469
+SH
+30431630
+12/19/2004 12:00:00 AM
+abdominal pain
+DIS
+Admission Date :
+12/19/2004
+Report Status :
+Discharge Date :
+12/23/2004
+****** DISCHARGE ORDERS******
+MEEDHEYSKUDZRO , LEENLEE C
+360-93-28-7P31
+Room :
+3M-963
+Service :
+PUL
+DISCHARGE PATIENT ON :
+12/23/04 AT 05:00 PM
+CONTINGENT UPON Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SADDCHIRD , ALINE CHPIE , M.D.
+CODE STATUS :
+No CPR / No defib / No intubation / No pressors
+/DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+ALBUTEROL INHALER 2 PUFF INH QID PRN Shortness of Breath , Wheezing VITAMIN C ( ASCORBIC ACID ) 500 MG PO BID MIACALCIN ( CALCITONIN - SALMON ) 1 SPRAY INH QD
+Number of Doses Required ( approximate ) :
+1MAG CITRATE ( CITRATE OF MAGNESIA ) 300 MILLILITERS PO QD PRN Constipation COLACE ( DOCUSATE SODIUM ) 100 MG PO TID GLYBURIDE 5 MG PO BID Starting IN AM on 12/21/04 LACTULOSE 30 MILLILITERS PO Q6
+HOLD IF :
+diarrhea
+SENNA TABLETS 2 TAB PO BID SIMETHICONE 160 MG PO QID Starting Today ( 12/23 ) PRN
+Other :
+gas , upset stomach .
+TAMOXIFEN 20 MG PO QD
+Override Notice :
+Override added on 12/19/04 by SAPMOORES , NELL RILET , M.D. on order for LEVOFLOXACIN PO ( ref # 88006031 )
+POTENTIALLY SERIOUS INTERACTION :
+TAMOXIFEN CITRATE and LEVOFLOXACIN
+Reason for override :
+aware MVI THERAPEUTIC W / MINERALS ( THERAP VITS / MINERALS ) 1 TAB PO QD PILOCARPINE 4% SOLUTION 1 DROP OS QID FLONASE ( FLUTICASONE NASAL SPRAY ) 2 SPRAY INH BID
+Number of Doses Required ( approximate ) :
+2 ALPHAGAN ( BRIMONIDINE TARTRATE ) 1 DROP OS BID
+Number of Doses Required ( approximate ) :
+2 LEVOFLOXACIN 250 MG PO QD X 1 Days Starting Today ( 12/21 )
+Food / Drug Interaction Instruction
+Administer iron products a minimum of 2 hours before or after a levofloxacin or ciprofloxacin dose dose
+If on tube feeds , please cycle ( hold 1 hr before to 2 hr after )
+Take 2 hours before or 2 hours after dairy products .
+Alert overridden :
+Override added on 12/19/04 by SAPMOORES , NELL RILET , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+TAMOXIFEN CITRATE and LEVOFLOXACIN
+Reason for override :
+aware
+CELEXA ( CITALOPRAM ) 20 MG PO QD CALCIUM CARB + D ( 600MG ELEM CA + VIT D/200 IU ) 1 TAB PO BID LUMIGAN ( BIMATOPROST 0.03% ) 1 DROP OU QHS
+DIET :
+No Restrictions
+ACTIVITY :
+as tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Faleschird , Dr. Cuchbreunjesc , Dr. Roziesc ,
+ALLERGY :
+CEFUROXIME AXETILADMIT DIAGNOSIS :
+abdominal pain
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) abdominal pain
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay Allergies - PCN - rash - Bactrim - hives - Erythro - nausea - Ceclor - nausea - Clarythro = rash
+OPERATIONS AND PROCEDURES :
+None .
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+NONEBRIEF RESUME OF HOSPITAL COURSE :
+67 y/o F w/ hx poliomyelitis , breast CA stable on tamoxifen , vent dependent in an iron lung admitted w/ 1 day hx of abdominal pain .
+Pt was recently admitted 1 week ago w/ epigastric pain .
+Pain worse with movement .
+She denies any fever , BRBPR , melena , dysuria .
+On admision , T 97.5 , HR 86 , BP 111/47 , R 20 .
+Sat 94% on 4L .
+Exam notable for hyperactive bowel sounds with abd distention and tenderness to palpation at LLQ and RLQ .
+No rebound or guarding .
+Abd CT showed stable findings compared to 12/10/04 except for distended right colon consistent with ileus .
+Hospital course :
+GI :
+pt &apos;s clinical picture was consistent with constipation-related abdominal pain .
+pt was started on bowel regimen with Senna , magcitrate and Lactulose .
+Several loose bowel movements were induced with above regimen .
+Her abd distention and tenderness improved after bowel movement .
+ID :
+pt was Levo 250mg x 3 days for UTI ( pyuria on admisstion ) .
+Pulm :
+pt has been using iron lung for breathing and has been satting well duing her hospital course .
+Code :
+DNR / DNI .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+1. Please follow up with Dr. Faleschird , Dr. Cuchbreunjesc and Dr. Roziesc .
+No dictated summary
+ENTERED BY :
+LEESEPLASSBREAN , RIDELT , M.D. ( FR98 )
+12/23/04 04:37 PM
+****** END OF DISCHARGE ORDERS ******
